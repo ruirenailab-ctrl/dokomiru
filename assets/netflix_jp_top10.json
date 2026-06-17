@@ -1,65 +1,20 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-06-07",
-  "generated_at": "2026-06-13",
+  "week": "2026-06-14",
+  "generated_at": "2026-06-17",
   "films": [
     {
       "rank": 1,
       "type": "movie",
-      "id": 1338799,
-      "title": "劇場版総集編 呪術廻戦 懐玉・玉折",
-      "poster": "/gO0B3CwQ0gmLSFk9YwkNMvvvp0a.jpg",
-      "year": "2025",
-      "netflix_title": "Jujutsu Kaisen: Hidden Inventory / Premature Death – the Movie"
+      "id": 866398,
+      "title": "ビーキーパー",
+      "poster": "/kq9Xusf2oHsLqYDxmA2KtxGoDYO.jpg",
+      "year": "2024",
+      "netflix_title": "The Beekeeper"
     },
     {
       "rank": 2,
-      "type": "movie",
-      "id": 1598785,
-      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-      "poster": "/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
-      "year": "2026",
-      "netflix_title": "Milky☆Subway: The Galactic Limited Express – the Movie"
-    },
-    {
-      "rank": 3,
-      "type": "movie",
-      "id": 1464533,
-      "title": "爆弾",
-      "poster": "/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
-      "year": "2025",
-      "netflix_title": "SUZUKI=BAKUDAN"
-    },
-    {
-      "rank": 4,
-      "type": "movie",
-      "id": 912649,
-      "title": "ヴェノム：ザ・ラストダンス",
-      "poster": "/9fYBXUeXhb7vMaSQdjrBSYZ9O7P.jpg",
-      "year": "2024",
-      "netflix_title": "Venom: The Last Dance"
-    },
-    {
-      "rank": 5,
-      "type": "movie",
-      "id": 698222,
-      "title": "今日から俺は!! 劇場版",
-      "poster": "/lerONWVN0MjraG0iVjKWNUGDzRl.jpg",
-      "year": "2020",
-      "netflix_title": "From Today, It's My Turn!!: The Movie"
-    },
-    {
-      "rank": 6,
-      "type": "movie",
-      "id": 519182,
-      "title": "怪盗グルーのミニオン超変身",
-      "poster": "/nV02dGq0sOxp3DMvUByDEI5pLOd.jpg",
-      "year": "2024",
-      "netflix_title": "Despicable Me 4"
-    },
-    {
-      "rank": 7,
       "type": "movie",
       "id": 866346,
       "title": "The Retirement Plan",
@@ -68,34 +23,97 @@
       "netflix_title": "The Retirement Plan"
     },
     {
+      "rank": 3,
+      "type": "movie",
+      "id": 912649,
+      "title": "ヴェノム：ザ・ラストダンス",
+      "poster": "/9fYBXUeXhb7vMaSQdjrBSYZ9O7P.jpg",
+      "year": "2024",
+      "netflix_title": "Venom: The Last Dance"
+    },
+    {
+      "rank": 4,
+      "type": "movie",
+      "id": 1464533,
+      "title": "爆弾",
+      "poster": "/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
+      "year": "2025",
+      "netflix_title": "SUZUKI=BAKUDAN"
+    },
+    {
+      "rank": 5,
+      "type": "movie",
+      "id": 1205386,
+      "title": "52ヘルツのクジラたち",
+      "poster": "/imfo837oHdNJmeh7WWgaYnGqFc.jpg",
+      "year": "2024",
+      "netflix_title": "52-Hertz Whales"
+    },
+    {
+      "rank": 6,
+      "type": "movie",
+      "id": 1598785,
+      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+      "poster": "/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
+      "year": "2026",
+      "netflix_title": "Milky☆Subway: The Galactic Limited Express – the Movie"
+    },
+    {
+      "rank": 7,
+      "type": "movie",
+      "id": 1274706,
+      "title": "謎の女",
+      "poster": "/wrjKPBd4ieJMSxO7n5GothE9WAB.jpg",
+      "year": "2026",
+      "netflix_title": "The Marked Woman"
+    },
+    {
       "rank": 8,
       "type": "movie",
-      "id": 1136558,
-      "title": "みなに幸あれ",
-      "poster": "/80DGQv5qyz9k8fR7BFuXBv928dc.jpg",
-      "year": "2024",
-      "netflix_title": "Best Wishes to All"
+      "id": 1358005,
+      "title": "オフィス・ロマンス",
+      "poster": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+      "year": "2026",
+      "netflix_title": "Office Romance"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 753091,
-      "title": "THE MOON",
-      "poster": "/xJOMj0TcdiESFTU7JVELOjtajKA.jpg",
-      "year": "2023",
-      "netflix_title": "The Moon"
+      "id": 1338799,
+      "title": "劇場版総集編 呪術廻戦 懐玉・玉折",
+      "poster": "/gO0B3CwQ0gmLSFk9YwkNMvvvp0a.jpg",
+      "year": "2025",
+      "netflix_title": "Jujutsu Kaisen: Hidden Inventory / Premature Death – the Movie"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 1575337,
-      "title": "超かぐや姫！",
-      "poster": "/9tkMo2GNrtuzggwNF4MzixXw3B1.jpg",
-      "year": "2026",
-      "netflix_title": "Cosmic Princess Kaguya!"
+      "id": 1465954,
+      "title": "逆火",
+      "poster": "/pwYhgh7H8brvloWi8Onc5p0nwkZ.jpg",
+      "year": "2025",
+      "netflix_title": "Fiamma"
     }
   ],
   "tv": [
+    {
+      "rank": 1,
+      "type": "tv",
+      "id": 276161,
+      "title": "鉄槌教師",
+      "poster": "/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+      "year": "2026",
+      "netflix_title": "Teach You a Lesson"
+    },
+    {
+      "rank": 2,
+      "type": "tv",
+      "id": 312493,
+      "title": "喧嘩独学",
+      "poster": "/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+      "year": "2026",
+      "netflix_title": "Viral Hit"
+    },
     {
       "rank": 3,
       "type": "tv",
@@ -106,16 +124,25 @@
       "netflix_title": "My Royal Nemesis"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "type": "tv",
-      "id": 276161,
-      "title": "鉄槌教師",
-      "poster": "/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
-      "year": "2026",
-      "netflix_title": "Teach You a Lesson"
+      "id": 225193,
+      "title": "フィクサー",
+      "poster": "/125jrLKVoYhv4zyn6aUBdUo2XSJ.jpg",
+      "year": "2023",
+      "netflix_title": "Fixer"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "type": "tv",
+      "id": 287591,
+      "title": "うるわしの宵の月",
+      "poster": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
+      "year": "2026",
+      "netflix_title": "In the Clear Moonlit Dusk"
+    },
+    {
+      "rank": 7,
       "type": "tv",
       "id": 300529,
       "title": "地獄に堕ちるわよ",
@@ -124,16 +151,7 @@
       "netflix_title": "Straight to Hell"
     },
     {
-      "rank": 6,
-      "type": "tv",
-      "id": 260463,
-      "title": "黄泉のツガイ",
-      "poster": "/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
-      "year": "2026",
-      "netflix_title": "Daemons of the Shadow Realm"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "type": "tv",
       "id": 82684,
       "title": "転生したらスライムだった件",
@@ -142,31 +160,22 @@
       "netflix_title": "That Time I Got Reincarnated as a Slime"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "type": "tv",
-      "id": 303405,
-      "title": "九条の大罪",
-      "poster": "/1eHY0eqE6ricIouCyxMfAFm6D6i.jpg",
+      "id": 260463,
+      "title": "黄泉のツガイ",
+      "poster": "/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
       "year": "2026",
-      "netflix_title": "Sins of Kujo"
+      "netflix_title": "Daemons of the Shadow Realm"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "type": "tv",
       "id": 311871,
       "title": "田鎖ブラザーズ",
       "poster": "/m6UmAAt2X39j6KWeIsATEX2O5qu.jpg",
       "year": "2026",
       "netflix_title": "Tagusari Bros."
-    },
-    {
-      "rank": 10,
-      "type": "tv",
-      "id": 118306,
-      "title": "ビー・バップ・ハイスクール",
-      "poster": "/8YDCUCxSUmuvV5zHRF9OcpuRez9.jpg",
-      "year": "1990",
-      "netflix_title": "Be-Bop-Highschool"
     }
   ]
 }
