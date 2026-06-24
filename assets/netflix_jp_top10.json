@@ -1,11 +1,20 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-06-14",
-  "generated_at": "2026-06-20",
+  "week": "2026-06-21",
+  "generated_at": "2026-06-24",
   "films": [
     {
       "rank": 1,
+      "type": "movie",
+      "id": 1408405,
+      "title": "かくかくしかじか",
+      "poster": "/w1zaCj9QD8hRn8I8b4kAqa6ZQiZ.jpg",
+      "year": "2025",
+      "netflix_title": "Blank Canvas: My So-Called Artist's Journey"
+    },
+    {
+      "rank": 2,
       "type": "movie",
       "id": 866398,
       "title": "ビーキーパー",
@@ -14,25 +23,34 @@
       "netflix_title": "The Beekeeper"
     },
     {
-      "rank": 2,
-      "type": "movie",
-      "id": 866346,
-      "title": "The Retirement Plan",
-      "poster": "/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg",
-      "year": "2023",
-      "netflix_title": "The Retirement Plan"
-    },
-    {
       "rank": 3,
       "type": "movie",
-      "id": 912649,
-      "title": "ヴェノム：ザ・ラストダンス",
-      "poster": "/9fYBXUeXhb7vMaSQdjrBSYZ9O7P.jpg",
+      "id": 558449,
+      "title": "グラディエーターII 英雄を呼ぶ声",
+      "poster": "/pRFM5ssUfcWnXICkpSzbG6oXBb3.jpg",
       "year": "2024",
-      "netflix_title": "Venom: The Last Dance"
+      "netflix_title": "Gladiator II"
     },
     {
       "rank": 4,
+      "type": "movie",
+      "id": 1451344,
+      "title": "チーム・ハズバンド",
+      "poster": "/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+      "year": "2026",
+      "netflix_title": "Husbands in Action"
+    },
+    {
+      "rank": 5,
+      "type": "movie",
+      "id": 370172,
+      "title": "007／ノー・タイム・トゥ・ダイ",
+      "poster": "/ttGLPFamWLHf3OuwmtmAkRm472R.jpg",
+      "year": "2021",
+      "netflix_title": "No Time to Die"
+    },
+    {
+      "rank": 6,
       "type": "movie",
       "id": 1464533,
       "title": "爆弾",
@@ -41,7 +59,7 @@
       "netflix_title": "SUZUKI=BAKUDAN"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "type": "movie",
       "id": 1205386,
       "title": "52ヘルツのクジラたち",
@@ -50,49 +68,31 @@
       "netflix_title": "52-Hertz Whales"
     },
     {
-      "rank": 6,
-      "type": "movie",
-      "id": 1598785,
-      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-      "poster": "/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
-      "year": "2026",
-      "netflix_title": "Milky☆Subway: The Galactic Limited Express – the Movie"
-    },
-    {
-      "rank": 7,
-      "type": "movie",
-      "id": 1274706,
-      "title": "謎の女",
-      "poster": "/wrjKPBd4ieJMSxO7n5GothE9WAB.jpg",
-      "year": "2026",
-      "netflix_title": "The Marked Woman"
-    },
-    {
       "rank": 8,
       "type": "movie",
-      "id": 1358005,
-      "title": "オフィス・ロマンス",
-      "poster": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-      "year": "2026",
-      "netflix_title": "Office Romance"
+      "id": 866346,
+      "title": "The Retirement Plan",
+      "poster": "/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg",
+      "year": "2023",
+      "netflix_title": "The Retirement Plan"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 1338799,
-      "title": "劇場版総集編 呪術廻戦 懐玉・玉折",
-      "poster": "/gO0B3CwQ0gmLSFk9YwkNMvvvp0a.jpg",
-      "year": "2025",
-      "netflix_title": "Jujutsu Kaisen: Hidden Inventory / Premature Death – the Movie"
+      "id": 628900,
+      "title": "ザ・コントラクター",
+      "poster": "/uazeQabMxYVelzScaraW8xkVX77.jpg",
+      "year": "2022",
+      "netflix_title": "The Contractor"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 1465954,
-      "title": "逆火",
-      "poster": "/pwYhgh7H8brvloWi8Onc5p0nwkZ.jpg",
-      "year": "2025",
-      "netflix_title": "Fiamma"
+      "id": 954534,
+      "title": "Casino Royale",
+      "poster": "/7wLZcpyclL2D5dCfAJjI7dmWcc3.jpg",
+      "year": "2015",
+      "netflix_title": "Casino Royale"
     }
   ],
   "tv": [
@@ -124,34 +124,16 @@
       "netflix_title": "My Royal Nemesis"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "type": "tv",
-      "id": 225193,
-      "title": "フィクサー",
-      "poster": "/125jrLKVoYhv4zyn6aUBdUo2XSJ.jpg",
-      "year": "2023",
-      "netflix_title": "Fixer"
+      "id": 80127,
+      "title": "水晶の鼓動 殺人分析班",
+      "poster": "/Ki3XiEPvHjZCaNkQgIUyk4dsRT.jpg",
+      "year": "2016",
+      "netflix_title": "Crystal’s Beating"
     },
     {
       "rank": 6,
-      "type": "tv",
-      "id": 287591,
-      "title": "うるわしの宵の月",
-      "poster": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
-      "year": "2026",
-      "netflix_title": "In the Clear Moonlit Dusk"
-    },
-    {
-      "rank": 7,
-      "type": "tv",
-      "id": 300529,
-      "title": "地獄に堕ちるわよ",
-      "poster": "/zJU01gO2x5G6JQHeASTr3fY68ja.jpg",
-      "year": "2026",
-      "netflix_title": "Straight to Hell"
-    },
-    {
-      "rank": 8,
       "type": "tv",
       "id": 82684,
       "title": "転生したらスライムだった件",
@@ -160,7 +142,7 @@
       "netflix_title": "That Time I Got Reincarnated as a Slime"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "type": "tv",
       "id": 260463,
       "title": "黄泉のツガイ",
@@ -169,13 +151,22 @@
       "netflix_title": "Daemons of the Shadow Realm"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "type": "tv",
       "id": 311871,
       "title": "田鎖ブラザーズ",
       "poster": "/m6UmAAt2X39j6KWeIsATEX2O5qu.jpg",
       "year": "2026",
       "netflix_title": "Tagusari Bros."
+    },
+    {
+      "rank": 9,
+      "type": "tv",
+      "id": 300529,
+      "title": "地獄に堕ちるわよ",
+      "poster": "/zJU01gO2x5G6JQHeASTr3fY68ja.jpg",
+      "year": "2026",
+      "netflix_title": "Straight to Hell"
     }
   ]
 }
