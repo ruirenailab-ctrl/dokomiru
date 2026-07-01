@@ -1,38 +1,11 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-06-21",
-  "generated_at": "2026-06-27",
+  "week": "2026-06-28",
+  "generated_at": "2026-07-01",
   "films": [
     {
-      "rank": 1,
-      "type": "movie",
-      "id": 1408405,
-      "title": "かくかくしかじか",
-      "poster": "/w1zaCj9QD8hRn8I8b4kAqa6ZQiZ.jpg",
-      "year": "2025",
-      "netflix_title": "Blank Canvas: My So-Called Artist's Journey"
-    },
-    {
       "rank": 2,
-      "type": "movie",
-      "id": 866398,
-      "title": "ビーキーパー",
-      "poster": "/kq9Xusf2oHsLqYDxmA2KtxGoDYO.jpg",
-      "year": "2024",
-      "netflix_title": "The Beekeeper"
-    },
-    {
-      "rank": 3,
-      "type": "movie",
-      "id": 558449,
-      "title": "グラディエーターII 英雄を呼ぶ声",
-      "poster": "/pRFM5ssUfcWnXICkpSzbG6oXBb3.jpg",
-      "year": "2024",
-      "netflix_title": "Gladiator II"
-    },
-    {
-      "rank": 4,
       "type": "movie",
       "id": 1451344,
       "title": "チーム・ハズバンド",
@@ -41,16 +14,25 @@
       "netflix_title": "Husbands in Action"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "type": "movie",
-      "id": 370172,
-      "title": "007／ノー・タイム・トゥ・ダイ",
-      "poster": "/ttGLPFamWLHf3OuwmtmAkRm472R.jpg",
-      "year": "2021",
-      "netflix_title": "No Time to Die"
+      "id": 1408405,
+      "title": "かくかくしかじか",
+      "poster": "/w1zaCj9QD8hRn8I8b4kAqa6ZQiZ.jpg",
+      "year": "2025",
+      "netflix_title": "Blank Canvas: My So-Called Artist's Journey"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "type": "movie",
+      "id": 1701668,
+      "title": "April Come She Will",
+      "poster": "/2i5AF0S8KJkl2OUvCLPxVYUEyWJ.jpg",
+      "year": "2025",
+      "netflix_title": "April Come She Will"
+    },
+    {
+      "rank": 5,
       "type": "movie",
       "id": 1464533,
       "title": "爆弾",
@@ -59,25 +41,25 @@
       "netflix_title": "SUZUKI=BAKUDAN"
     },
     {
+      "rank": 6,
+      "type": "movie",
+      "id": 866398,
+      "title": "ビーキーパー",
+      "poster": "/kq9Xusf2oHsLqYDxmA2KtxGoDYO.jpg",
+      "year": "2024",
+      "netflix_title": "The Beekeeper"
+    },
+    {
       "rank": 7,
       "type": "movie",
-      "id": 1205386,
-      "title": "52ヘルツのクジラたち",
-      "poster": "/imfo837oHdNJmeh7WWgaYnGqFc.jpg",
-      "year": "2024",
-      "netflix_title": "52-Hertz Whales"
+      "id": 1717809,
+      "title": "RADWIMPS 20th ANNIVERSARY LIVE TOUR",
+      "poster": "/1ua8q6So5Ch6ya4TImmjO6UeKAM.jpg",
+      "year": "2026",
+      "netflix_title": "RADWIMPS 20th Anniversary Live Tour"
     },
     {
       "rank": 8,
-      "type": "movie",
-      "id": 866346,
-      "title": "The Retirement Plan",
-      "poster": "/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg",
-      "year": "2023",
-      "netflix_title": "The Retirement Plan"
-    },
-    {
-      "rank": 9,
       "type": "movie",
       "id": 628900,
       "title": "ザ・コントラクター",
@@ -86,13 +68,22 @@
       "netflix_title": "The Contractor"
     },
     {
+      "rank": 9,
+      "type": "movie",
+      "id": 614945,
+      "title": "ボイスメールで恋をして",
+      "poster": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "year": "2026",
+      "netflix_title": "Voicemails for Isabelle"
+    },
+    {
       "rank": 10,
       "type": "movie",
-      "id": 954534,
-      "title": "Casino Royale",
-      "poster": "/7wLZcpyclL2D5dCfAJjI7dmWcc3.jpg",
-      "year": "2015",
-      "netflix_title": "Casino Royale"
+      "id": 370172,
+      "title": "007／ノー・タイム・トゥ・ダイ",
+      "poster": "/ttGLPFamWLHf3OuwmtmAkRm472R.jpg",
+      "year": "2021",
+      "netflix_title": "No Time to Die"
     }
   ],
   "tv": [
@@ -108,6 +99,15 @@
     {
       "rank": 2,
       "type": "tv",
+      "id": 278178,
+      "title": "捜索者の血",
+      "poster": "/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "year": "2026",
+      "netflix_title": "I Will Find You"
+    },
+    {
+      "rank": 3,
+      "type": "tv",
       "id": 312493,
       "title": "喧嘩独学",
       "poster": "/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
@@ -115,7 +115,16 @@
       "netflix_title": "Viral Hit"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "type": "tv",
+      "id": 296206,
+      "title": "김부장",
+      "poster": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "year": "2026",
+      "netflix_title": "Agent Kim Reactivated"
+    },
+    {
+      "rank": 5,
       "type": "tv",
       "id": 303143,
       "title": "멋진 신세계",
@@ -124,16 +133,16 @@
       "netflix_title": "My Royal Nemesis"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "type": "tv",
-      "id": 80127,
-      "title": "水晶の鼓動 殺人分析班",
-      "poster": "/Ki3XiEPvHjZCaNkQgIUyk4dsRT.jpg",
-      "year": "2016",
-      "netflix_title": "Crystal’s Beating"
+      "id": 300054,
+      "title": "刃牙道",
+      "poster": "/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
+      "year": "2026",
+      "netflix_title": "BAKI-DOU: The Invincible Samurai"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "type": "tv",
       "id": 82684,
       "title": "転生したらスライムだった件",
@@ -142,31 +151,13 @@
       "netflix_title": "That Time I Got Reincarnated as a Slime"
     },
     {
-      "rank": 7,
-      "type": "tv",
-      "id": 260463,
-      "title": "黄泉のツガイ",
-      "poster": "/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
-      "year": "2026",
-      "netflix_title": "Daemons of the Shadow Realm"
-    },
-    {
-      "rank": 8,
-      "type": "tv",
-      "id": 311871,
-      "title": "田鎖ブラザーズ",
-      "poster": "/m6UmAAt2X39j6KWeIsATEX2O5qu.jpg",
-      "year": "2026",
-      "netflix_title": "Tagusari Bros."
-    },
-    {
       "rank": 9,
       "type": "tv",
-      "id": 300529,
-      "title": "地獄に堕ちるわよ",
-      "poster": "/zJU01gO2x5G6JQHeASTr3fY68ja.jpg",
-      "year": "2026",
-      "netflix_title": "Straight to Hell"
+      "id": 218038,
+      "title": "VIVANT",
+      "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
+      "year": "2023",
+      "netflix_title": "Vivant"
     }
   ]
 }
