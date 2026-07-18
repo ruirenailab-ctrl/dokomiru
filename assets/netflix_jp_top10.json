@@ -1,38 +1,38 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-06-28",
-  "generated_at": "2026-07-11",
+  "week": "2026-07-12",
+  "generated_at": "2026-07-18",
   "films": [
+    {
+      "rank": 1,
+      "type": "movie",
+      "id": 1363899,
+      "title": "女神降臨 Before",
+      "poster": "/gd5KP6N47heuT1zb5vSp97OMON5.jpg",
+      "year": "2025",
+      "netflix_title": "True Beauty: The Movie Part 1"
+    },
     {
       "rank": 2,
       "type": "movie",
-      "id": 1451344,
-      "title": "チーム・ハズバンド",
-      "poster": "/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-      "year": "2026",
-      "netflix_title": "Husbands in Action"
+      "id": 1363903,
+      "title": "女神降臨 After",
+      "poster": "/fujrPkrkdAfqoxC9ysKlsSDqHUt.jpg",
+      "year": "2025",
+      "netflix_title": "True Beauty: The Movie Part 2"
     },
     {
       "rank": 3,
       "type": "movie",
-      "id": 1408405,
-      "title": "かくかくしかじか",
-      "poster": "/w1zaCj9QD8hRn8I8b4kAqa6ZQiZ.jpg",
-      "year": "2025",
-      "netflix_title": "Blank Canvas: My So-Called Artist's Journey"
+      "id": 1081363,
+      "title": "男盜女很賊",
+      "poster": "/ebzea7Dn73B1Fu4Y0RzDetCI6ag.jpg",
+      "year": "2020",
+      "netflix_title": "The Hustle"
     },
     {
       "rank": 4,
-      "type": "movie",
-      "id": 1701668,
-      "title": "April Come She Will",
-      "poster": "/2i5AF0S8KJkl2OUvCLPxVYUEyWJ.jpg",
-      "year": "2025",
-      "netflix_title": "April Come She Will"
-    },
-    {
-      "rank": 5,
       "type": "movie",
       "id": 1464533,
       "title": "爆弾",
@@ -41,78 +41,87 @@
       "netflix_title": "SUZUKI=BAKUDAN"
     },
     {
+      "rank": 5,
+      "type": "movie",
+      "id": 158068,
+      "title": "連合艦隊司令長官 山本五十六",
+      "poster": "/hrMCglrWh72LPwvdpG3jfmQYjRR.jpg",
+      "year": "1968",
+      "netflix_title": "Admiral Yamamoto"
+    },
+    {
       "rank": 6,
       "type": "movie",
-      "id": 866398,
-      "title": "ビーキーパー",
-      "poster": "/kq9Xusf2oHsLqYDxmA2KtxGoDYO.jpg",
-      "year": "2024",
-      "netflix_title": "The Beekeeper"
+      "id": 1444904,
+      "title": "35年目のラブレター",
+      "poster": "/r7NZyvRFDMu4xeENa5wEbk9lAdo.jpg",
+      "year": "2025",
+      "netflix_title": "The 35-Year Promise"
     },
     {
       "rank": 7,
       "type": "movie",
-      "id": 1717809,
-      "title": "RADWIMPS 20th ANNIVERSARY LIVE TOUR",
-      "poster": "/1ua8q6So5Ch6ya4TImmjO6UeKAM.jpg",
+      "id": 1202033,
+      "title": "エノーラ・ホームズの事件簿3",
+      "poster": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
       "year": "2026",
-      "netflix_title": "RADWIMPS 20th Anniversary Live Tour"
+      "netflix_title": "Enola Holmes 3"
     },
     {
       "rank": 8,
       "type": "movie",
-      "id": 628900,
-      "title": "ザ・コントラクター",
-      "poster": "/uazeQabMxYVelzScaraW8xkVX77.jpg",
-      "year": "2022",
-      "netflix_title": "The Contractor"
+      "id": 1341284,
+      "title": "ミッシング・チャイルド・ビデオテープ",
+      "poster": "/tB3Q2sFKCXF0zv49JDf2pQsEnAn.jpg",
+      "year": "2025",
+      "netflix_title": "Missing Child Videotape"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 614945,
-      "title": "ボイスメールで恋をして",
-      "poster": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-      "year": "2026",
-      "netflix_title": "Voicemails for Isabelle"
+      "id": 961420,
+      "title": "キングダム2 遥かなる大地へ",
+      "poster": "/ce66ewX8MIZgHy9iqOp86BB8Ogv.jpg",
+      "year": "2022",
+      "netflix_title": "Kingdom2: Far and Away"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 370172,
-      "title": "007／ノー・タイム・トゥ・ダイ",
-      "poster": "/ttGLPFamWLHf3OuwmtmAkRm472R.jpg",
-      "year": "2021",
-      "netflix_title": "No Time to Die"
+      "id": 1627079,
+      "title": "The Creator",
+      "poster": "/tBeWJOSVUSWyAykDl2ZaiHCdpjK.jpg",
+      "year": "2026",
+      "netflix_title": "The Creator"
     }
   ],
   "tv": [
     {
       "rank": 1,
       "type": "tv",
-      "id": 276161,
-      "title": "鉄槌教師",
-      "poster": "/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg",
+      "id": 253960,
+      "title": "ガス人間",
+      "poster": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
       "year": "2026",
-      "netflix_title": "Teach You a Lesson"
+      "netflix_title": "Human Vapor"
     },
     {
       "rank": 2,
       "type": "tv",
-      "id": 278178,
-      "title": "捜索者の血",
-      "poster": "/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-      "year": "2026",
-      "netflix_title": "I Will Find You"
+      "id": 94664,
+      "title": "無職転生 ～異世界行ったら本気だす～",
+      "poster": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "year": "2021",
+      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
       "rank": 3,
       "type": "tv",
-      "id": 312493,
-      "title": "喧嘩独学",
-      "poster": "/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+      "id": 312949,
+      "title": "ヤニねこ",
+      "poster": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
       "year": "2026",
-      "netflix_title": "Viral Hit"
+      "netflix_title": "Chainsmoker Cat"
     },
     {
       "rank": 4,
@@ -126,38 +135,47 @@
     {
       "rank": 5,
       "type": "tv",
-      "id": 303143,
-      "title": "멋진 신세계",
-      "poster": "/u2cX3CVzUZLIGVwd9HB7bUhE7OP.jpg",
+      "id": 322570,
+      "title": "Tシャツが乾くまで",
+      "poster": "/u4FV6Y2JtTaGpVp94V7Vp0JR3R3.jpg",
       "year": "2026",
-      "netflix_title": "My Royal Nemesis"
+      "netflix_title": "Until the T-shirt Dries"
+    },
+    {
+      "rank": 6,
+      "type": "tv",
+      "id": 276161,
+      "title": "鉄槌教師",
+      "poster": "/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg",
+      "year": "2026",
+      "netflix_title": "Teach You a Lesson"
     },
     {
       "rank": 7,
-      "type": "tv",
-      "id": 300054,
-      "title": "刃牙道",
-      "poster": "/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
-      "year": "2026",
-      "netflix_title": "BAKI-DOU: The Invincible Samurai"
-    },
-    {
-      "rank": 8,
-      "type": "tv",
-      "id": 82684,
-      "title": "転生したらスライムだった件",
-      "poster": "/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
-      "year": "2018",
-      "netflix_title": "That Time I Got Reincarnated as a Slime"
-    },
-    {
-      "rank": 9,
       "type": "tv",
       "id": 218038,
       "title": "VIVANT",
       "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
       "year": "2023",
       "netflix_title": "Vivant"
+    },
+    {
+      "rank": 8,
+      "type": "tv",
+      "id": 153217,
+      "title": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+      "poster": "/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+      "year": "2026",
+      "netflix_title": "Sparks of Tomorrow"
+    },
+    {
+      "rank": 10,
+      "type": "tv",
+      "id": 82684,
+      "title": "転生したらスライムだった件",
+      "poster": "/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
+      "year": "2018",
+      "netflix_title": "That Time I Got Reincarnated as a Slime"
     }
   ]
 }
