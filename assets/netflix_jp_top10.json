@@ -1,11 +1,38 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-07-19",
-  "generated_at": "2026-07-25",
+  "week": "2026-07-26",
+  "generated_at": "2026-07-29",
   "films": [
     {
       "rank": 1,
+      "type": "movie",
+      "id": 1567203,
+      "title": "夜勤事件",
+      "poster": "/okfGa1oSi2rerEr7TkAih9hCZ7q.jpg",
+      "year": "2026",
+      "netflix_title": "The Convenience Store"
+    },
+    {
+      "rank": 2,
+      "type": "movie",
+      "id": 1418666,
+      "title": "ペリリュー －楽園のゲルニカ－",
+      "poster": "/a7c9bttpcxjkG9UH20rbUIfY3ru.jpg",
+      "year": "2025",
+      "netflix_title": "Peleliu: Guernica of Paradise"
+    },
+    {
+      "rank": 3,
+      "type": "movie",
+      "id": 539972,
+      "title": "クレイヴン・ザ・ハンター",
+      "poster": "/zsdPZIhwiv07jnrKjlrctokoNMp.jpg",
+      "year": "2024",
+      "netflix_title": "Kraven the Hunter"
+    },
+    {
+      "rank": 4,
       "type": "movie",
       "id": 1241320,
       "title": "キングダム 大将軍の帰還",
@@ -14,43 +41,7 @@
       "netflix_title": "Kingdom: Return of The Great General"
     },
     {
-      "rank": 2,
-      "type": "movie",
-      "id": 1464533,
-      "title": "爆弾",
-      "poster": "/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
-      "year": "2025",
-      "netflix_title": "SUZUKI=BAKUDAN"
-    },
-    {
-      "rank": 3,
-      "type": "movie",
-      "id": 1363899,
-      "title": "女神降臨 Before",
-      "poster": "/gd5KP6N47heuT1zb5vSp97OMON5.jpg",
-      "year": "2025",
-      "netflix_title": "True Beauty: The Movie Part 1"
-    },
-    {
-      "rank": 4,
-      "type": "movie",
-      "id": 961420,
-      "title": "キングダム2 遥かなる大地へ",
-      "poster": "/ce66ewX8MIZgHy9iqOp86BB8Ogv.jpg",
-      "year": "2022",
-      "netflix_title": "Kingdom2: Far and Away"
-    },
-    {
       "rank": 5,
-      "type": "movie",
-      "id": 1061181,
-      "title": "キングダム 運命の炎",
-      "poster": "/7cIqNt2YPK1nCf904NFISEScCzk.jpg",
-      "year": "2023",
-      "netflix_title": "Kingdom 3: The Flame of Destiny"
-    },
-    {
-      "rank": 6,
       "type": "movie",
       "id": 1356682,
       "title": "The Little Things",
@@ -59,40 +50,40 @@
       "netflix_title": "The Little Things"
     },
     {
+      "rank": 6,
+      "type": "movie",
+      "id": 1375462,
+      "title": "Speak No Evil",
+      "poster": "/c3Ec258TtOczpCbMqFhKbv4ws3x.jpg",
+      "year": "2024",
+      "netflix_title": "Speak No Evil"
+    },
+    {
       "rank": 7,
       "type": "movie",
-      "id": 1363903,
-      "title": "女神降臨 After",
-      "poster": "/fujrPkrkdAfqoxC9ysKlsSDqHUt.jpg",
-      "year": "2025",
-      "netflix_title": "True Beauty: The Movie Part 2"
+      "id": 1061181,
+      "title": "キングダム 運命の炎",
+      "poster": "/7cIqNt2YPK1nCf904NFISEScCzk.jpg",
+      "year": "2023",
+      "netflix_title": "Kingdom 3: The Flame of Destiny"
     },
     {
       "rank": 8,
       "type": "movie",
-      "id": 505026,
-      "title": "ナイル殺人事件",
-      "poster": "/16jq43ZlgQ1LjoP66pSEkjGuT0W.jpg",
+      "id": 961420,
+      "title": "キングダム2 遥かなる大地へ",
+      "poster": "/ce66ewX8MIZgHy9iqOp86BB8Ogv.jpg",
       "year": "2022",
-      "netflix_title": "Death on the Nile"
-    },
-    {
-      "rank": 9,
-      "type": "movie",
-      "id": 1420410,
-      "title": "山田くんとLv999の恋をする",
-      "poster": "/zu0O71LFTo8Qbicr6fvBRdt4joh.jpg",
-      "year": "2025",
-      "netflix_title": "My Love Story with Yamada-kun at Lv999"
+      "netflix_title": "Kingdom2: Far and Away"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 1124838,
-      "title": "కింగ్డమ్‌",
-      "poster": "/6x0wmp2LlLqhEbd8XKjJpTHdHsT.jpg",
+      "id": 1464533,
+      "title": "爆弾",
+      "poster": "/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
       "year": "2025",
-      "netflix_title": "Kingdom"
+      "netflix_title": "SUZUKI=BAKUDAN"
     }
   ],
   "tv": [
@@ -108,6 +99,15 @@
     {
       "rank": 2,
       "type": "tv",
+      "id": 325022,
+      "title": "GTO",
+      "poster": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+      "year": "2026",
+      "netflix_title": "GTO (2026)"
+    },
+    {
+      "rank": 3,
+      "type": "tv",
       "id": 253960,
       "title": "ガス人間",
       "poster": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
@@ -115,16 +115,25 @@
       "netflix_title": "Human Vapor"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "type": "tv",
-      "id": 94664,
-      "title": "無職転生 ～異世界行ったら本気だす～",
-      "poster": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
-      "year": "2021",
-      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
+      "id": 323579,
+      "title": "大空港～GATE24～",
+      "poster": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
+      "year": "2026",
+      "netflix_title": "GATE24:The Border"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "type": "tv",
+      "id": 91618,
+      "title": "これは経費で落ちません！",
+      "poster": "/83zix34nBBX4YG6jzYSV0C27vwU.jpg",
+      "year": "2019",
+      "netflix_title": "You Can't Expense This!"
+    },
+    {
+      "rank": 6,
       "type": "tv",
       "id": 296206,
       "title": "김부장",
@@ -133,58 +142,40 @@
       "netflix_title": "Agent Kim Reactivated"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "type": "tv",
+      "id": 218038,
+      "title": "VIVANT",
+      "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
+      "year": "2023",
+      "netflix_title": "Vivant"
+    },
+    {
+      "rank": 8,
+      "type": "tv",
+      "id": 94664,
+      "title": "無職転生 ～異世界行ったら本気だす～",
+      "poster": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "year": "2021",
+      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
+    },
+    {
+      "rank": 9,
+      "type": "tv",
+      "id": 322852,
+      "title": "ブラックトリック～裁きを操る弁護人～",
+      "poster": "/2Gb5DtgrUl43jv80On2hIHbtTvk.jpg",
+      "year": "2026",
+      "netflix_title": "Black Trick: The Lawyer Who Controls Justice"
+    },
+    {
+      "rank": 10,
       "type": "tv",
       "id": 296286,
       "title": "スーパーの裏でヤニ吸うふたり",
       "poster": "/aRTMLZWEtBUy4fG01aqVicRD2wx.jpg",
       "year": "2026",
       "netflix_title": "Smoking Behind the Supermarket With You"
-    },
-    {
-      "rank": 6,
-      "type": "tv",
-      "id": 312949,
-      "title": "ヤニねこ",
-      "poster": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
-      "year": "2026",
-      "netflix_title": "Chainsmoker Cat"
-    },
-    {
-      "rank": 7,
-      "type": "tv",
-      "id": 326063,
-      "title": "告白ー25年目の秘密ー",
-      "poster": "/2DbzjVa35TAQ6oW2djLpLO2SdcB.jpg",
-      "year": "2026",
-      "netflix_title": "25 Years of You"
-    },
-    {
-      "rank": 8,
-      "type": "tv",
-      "id": 278043,
-      "title": "正反対な君と僕",
-      "poster": "/lLjcMT7fwuO5fgswb2drlbFwoTJ.jpg",
-      "year": "2026",
-      "netflix_title": "You and I Are Polar Opposites"
-    },
-    {
-      "rank": 9,
-      "type": "tv",
-      "id": 302051,
-      "title": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
-      "poster": "/svcJyWDhj1STkOTSfxgd2hOvZ0z.jpg",
-      "year": "2026",
-      "netflix_title": "I Became a Legend After My 10 Year-Long Last Stand"
-    },
-    {
-      "rank": 10,
-      "type": "tv",
-      "id": 270603,
-      "title": "追放された転生重騎士はゲーム知識で無双する",
-      "poster": "/flcyEjfwHECnqgXMGNZsajLg1rv.jpg",
-      "year": "2026",
-      "netflix_title": "The Exiled Heavy Knight Knows How To Game the System"
     }
   ]
 }
