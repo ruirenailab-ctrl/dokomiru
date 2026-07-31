@@ -26,6 +26,44 @@ TODAY = datetime.date.today().isoformat()
 
 TIER_LABEL = {"flatrate": "見放題", "free": "無料", "ads": "無料(広告つき)", "rent": "レンタル", "buy": "購入"}
 
+# ====================================================================
+# アフィリエイト設定（index.html の AFFILIATE_LINKS / EXTRA_AFFILIATE と対で管理。
+# ASP提携承認後に {PLACEHOLDER} を実値へ差し替えると自動で有効化される。
+# プレースホルダが残っている間はリンクを出さない＝壊れたリンクを出さない）
+# キー = TMDB provider 名（dedupe_names 正規化後）。
+# ====================================================================
+AFFILIATE_LINKS = {
+    "U-NEXT":             {"url": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid={VC_SID}&pid={VC_PID_UNEXT}", "label": "U-NEXTの無料トライアルで観る"},
+    "Amazon Prime Video": {"url": "https://af.moshimo.com/af/c/click?a_id={MOSHIMO_A_ID}&p_id={MOSHIMO_P_ID_AMAZON}", "label": "Prime Videoを無料で試す"},
+    "Hulu":               {"url": "https://h.accesstrade.net/sp/cc?rk={AT_RK_HULU}", "label": "Huluの無料トライアルで観る"},
+    "Disney Plus":        {"url": "https://h.accesstrade.net/sp/cc?rk={AT_RK_DISNEY}", "label": "Disney+を試す"},
+    "DMM TV":             {"url": "https://px.a8.net/svt/ejp?a8mat={A8MAT_DMMTV}", "label": "DMM TVを無料で試す"},
+}
+# ABEMA は TMDB 配信データに載らないため、作品個別の配信有無は主張せず
+# 汎用のPR枠として掲載する（A8提携承認済み 2026-06-08）。
+ABEMA_AD = {
+    "url": "https://px.a8.net/svt/ejp?a8mat=4B5R01+EAEK7U+4EKC+5YRHE",
+    "imp": "https://www17.a8.net/0.gif?a8mat=4B5R01+EAEK7U+4EKC+5YRHE",
+    "label": "ABEMAプレミアムを無料で試す",
+}
+
+
+def aff_ready(conf):
+    """提携IDが実値に差し替わっていれば True（{XXX} が残っていれば未設定＝無効）。"""
+    import re
+    return bool(conf) and not re.search(r"\{[A-Z0-9_]+\}", conf["url"])
+
+
+# 比較表に載せる主要サービス（表示名, TMDB provider 名の候補）
+MAJOR_SERVICES = [
+    ("Netflix", ["Netflix"]),
+    ("Amazonプライム", ["Amazon Prime Video", "Amazon Video"]),
+    ("U-NEXT", ["U-NEXT"]),
+    ("Disney+", ["Disney Plus"]),
+    ("Hulu", ["Hulu"]),
+    ("DMM TV", ["DMM TV"]),
+]
+
 
 def api(path, **params):
     params["api_key"] = KEY
@@ -63,9 +101,24 @@ def discover(media, pages):
     return list(dict.fromkeys(ids))  # 重複除去（順序維持）
 
 
+def trending(media, pages=2):
+    """今週のトレンド作品ID（「作品名+配信」の検索需要が立ちやすい層）。"""
+    ids = []
+    for p in range(1, pages + 1):
+        try:
+            d = api("/trending/%s/week" % media, language="ja-JP", page=str(p))
+        except Exception:
+            continue
+        for r in d.get("results", []):
+            if r.get("id") and r.get("poster_path"):
+                ids.append(r["id"])
+        time.sleep(0.04)
+    return list(dict.fromkeys(ids))
+
+
 def fetch_one(media, mid):
     try:
-        d = api("/%s/%s" % (media, mid), language="ja-JP", append_to_response="recommendations")
+        d = api("/%s/%s" % (media, mid), language="ja-JP", append_to_response="recommendations,credits")
         pv = api("/%s/%s/watch/providers" % (media, mid))
     except Exception:
         return None
@@ -141,6 +194,17 @@ padding:15px;border-radius:14px;margin:18px 0;font-size:1rem;box-shadow:0 6px 20
 display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 footer{border-top:1px solid #232834;margin-top:34px;padding-top:16px;font-size:.74rem;color:#7a8193}
 footer a{color:#98a0b3;text-decoration:underline}
+.pr-note{font-size:.7rem;color:#7a8193;margin:12px 0 0}
+.cta-aff{background:linear-gradient(135deg,#00b894,#0984e3);box-shadow:0 6px 20px rgba(9,132,227,.3);margin:12px 0}
+.cta-abema{background:linear-gradient(135deg,#0eb87f,#0e9fb8);box-shadow:0 6px 20px rgba(14,184,127,.3);margin:12px 0 4px}
+.ad-box .overview{margin-top:10px}
+.ad-note{font-size:.68rem;color:#7a8193;border:1px solid #2a2f3a;display:inline-block;padding:1px 8px;border-radius:6px}
+.cmp{width:100%;border-collapse:collapse;font-size:.88rem}
+.cmp td{padding:9px 6px;border-bottom:1px solid #232834}
+.cmp tr:last-child td{border-bottom:none}
+.cmp .mk{font-weight:800;text-align:center;width:2.4em}
+.cmp-note{font-size:.72rem;color:#7a8193;margin-top:10px}
+.faq h2{font-size:.94rem}
 """.strip()
 
 
@@ -188,6 +252,101 @@ def render_page(item):
         avail_html = "".join(blocks)
     else:
         avail_html = '<p class="overview">現在、日本の配信サービスでの配信情報が見つかりませんでした。配信が始まると、ここに表示されます。</p>'
+
+    # --- アフィリCTA（配信中サービスのうち提携済みのみ・最大2本。未提携は出さない） ---
+    all_names = []
+    for key in ("flatrate", "free", "ads", "rent", "buy"):
+        for n in tiers.get(key, []):
+            if n["name"] not in all_names:
+                all_names.append(n["name"])
+    aff_ctas = []
+    for name in all_names:
+        conf = AFFILIATE_LINKS.get(name)
+        if not aff_ready(conf):
+            continue
+        aff_ctas.append('<a class="cta cta-aff" href="%s" rel="noopener nofollow sponsored">%s</a>' % (
+            esc(conf["url"]), esc(conf["label"])))
+        if len(aff_ctas) >= 2:
+            break
+    aff_html = "".join(aff_ctas)
+
+    # --- 主要サービス○×比較表（TMDB実データのみ。データに無いものは「配信情報なし」表記で断定しない） ---
+    tier_of = {}
+    for key in ("flatrate", "free", "ads"):
+        for n in tiers.get(key, []):
+            tier_of.setdefault(n["name"], "sub")
+    for key in ("rent", "buy"):
+        for n in tiers.get(key, []):
+            tier_of.setdefault(n["name"], "paid")
+    cmp_rows = []
+    for label, cands in MAJOR_SERVICES:
+        st = next((tier_of[c] for c in cands if c in tier_of), None)
+        if st == "sub":
+            mark, note = "◎", "見放題"
+        elif st == "paid":
+            mark, note = "○", "レンタル・購入"
+        else:
+            mark, note = "−", "配信情報なし"
+        cmp_rows.append('<tr><td>%s</td><td class="mk">%s</td><td>%s</td></tr>' % (esc(label), mark, note))
+    compare_html = ('<div class="card"><h2>📊 主要サービスの配信状況（%s時点）</h2>'
+                    '<table class="cmp"><tbody>%s</tbody></table>'
+                    '<p class="cmp-note">JustWatch由来のデータに基づく表示です。「配信情報なし」はデータ上見つからなかったことを示し、実際の配信有無は各公式サイトでご確認ください。</p>'
+                    '</div>' % (TODAY, "".join(cmp_rows)))
+
+    # --- キャスト・スタッフ（credits実データのみ） ---
+    credits = d.get("credits") or {}
+    cast_names = [c.get("name") for c in (credits.get("cast") or [])[:6] if c.get("name")]
+    if is_movie:
+        staff_label = "監督"
+        staff_names = [c.get("name") for c in (credits.get("crew") or []) if c.get("job") == "Director" and c.get("name")][:2]
+    else:
+        staff_label = "制作"
+        staff_names = [c.get("name") for c in (d.get("created_by") or []) if c.get("name")][:2]
+    cast_bits = []
+    if staff_names:
+        cast_bits.append('<p class="overview"><strong>%s：</strong>%s</p>' % (staff_label, esc("、".join(staff_names))))
+    if cast_names:
+        cast_bits.append('<p class="overview"><strong>出演：</strong>%s</p>' % esc("、".join(cast_names)))
+    cast_html = ('<p class="sub">キャスト・スタッフ</p>%s' % "".join(cast_bits)) if cast_bits else ""
+
+    # --- FAQ（全て実データから機械生成。憶測の回答は書かない） ---
+    netflix_st = tier_of.get("Netflix")
+    if netflix_st == "sub":
+        faq_a1 = "%s時点の配信データでは、Netflixで見放題配信されています。最新の配信状況はNetflix公式サイトでご確認ください。" % TODAY
+    elif netflix_st == "paid":
+        faq_a1 = "%s時点の配信データでは、Netflixでレンタル・購入形式の配信情報があります。最新の配信状況はNetflix公式サイトでご確認ください。" % TODAY
+    else:
+        faq_a1 = "%s時点の配信データでは、Netflixでの配信情報は見つかりませんでした。%s" % (TODAY, summ)
+    flat_names = list(dict.fromkeys(
+        [n["name"] for n in tiers.get("flatrate", [])] +
+        [n["name"] for n in tiers.get("free", [])] +
+        [n["name"] for n in tiers.get("ads", [])]))
+    if flat_names:
+        faq_a2 = "%sの見放題配信で視聴できます。サービスによっては無料トライアル期間が用意されている場合があります（実施状況・条件は各公式サイトでご確認ください）。" % "・".join(flat_names)
+    else:
+        faq_a2 = "%s時点では見放題配信の情報が見つかりませんでした。レンタル・購入対応のサービス、または今後の配信開始をご確認ください。" % TODAY
+    faq_a3 = "本ページの配信情報は%s時点のJustWatch由来データに基づきます。配信状況は日々変わるため、最新・正確な情報は各サービスの公式サイトでご確認ください。" % TODAY
+    faqs = [
+        ("『%s』はNetflixで見られる？" % title, faq_a1),
+        ("『%s』を無料で見る方法は？" % title, faq_a2),
+        ("配信情報はいつ時点のもの？", faq_a3),
+    ]
+    faq_html = '<p class="sub">よくある質問</p>' + "".join(
+        '<div class="card faq"><h2>Q. %s</h2><p class="overview">A. %s</p></div>' % (esc(q), esc(a))
+        for q, a in faqs)
+    faq_ld_json = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [{"@type": "Question", "name": q,
+                        "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faqs],
+    }, ensure_ascii=False)
+
+    # --- ABEMA汎用PR枠（TMDBデータに載らないため作品個別の配信有無は主張しない） ---
+    abema_html = ('<div class="card ad-box"><span class="ad-note">PR</span>'
+                  '<p class="overview">アニメ・ドラマ・バラエティ・スポーツを配信するABEMAプレミアムには無料体験期間があります（実施状況・条件は公式サイトでご確認ください）。※本作品がABEMAで配信されているかは、ABEMA公式サイトでご確認ください。</p>'
+                  '<a class="cta cta-abema" href="%s" rel="noopener nofollow sponsored">%s</a>'
+                  '<img src="%s" width="1" height="1" alt="" style="border:0">'
+                  '</div>' % (esc(ABEMA_AD["url"]), esc(ABEMA_AD["label"]), esc(ABEMA_AD["imp"])))
 
     # 関連作品（相互リンク網）
     recs = ((d.get("recommendations") or {}).get("results") or [])
@@ -255,25 +414,34 @@ def render_page(item):
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{ogimg}">
 <script type="application/ld+json">{ld}</script>
+<script type="application/ld+json">{faq_ld}</script>
 <style>{css}</style></head>
 <body>
 <header><div class="bar"><a class="logo" href="{site}/">dokomiru</a><span style="font-size:.78rem;color:#98a0b3">配信先検索</span></div></header>
 <div class="wrap">
+<p class="pr-note">※本ページは広告（アフィリエイトリンク）を含みます</p>
 <div class="hero">{poster}<div class="h-meta"><h1>『{title}』はどこで観れる？</h1><div class="tags">{metabits}{tags}</div></div></div>
 <p class="lead">{summary}</p>
 <div class="card"><h2>📺 {title} の配信先（日本）</h2>{avail}</div>
+{aff}
+{compare}
 <a class="cta" href="{site}/?t={media}&id={id}">▶ dokomiruで配信先を開く・お気に入り保存</a>
+{abema}
 {overview_html}
+{cast_html}
+{faq_html}
 {rel}
 <footer>
+※本ページは広告（アフィリエイトリンク）を含みます。<br>
 配信状況はJustWatch由来で日々変わります。最新・正確な情報は各公式サイトでご確認ください。<br>
 配信情報の提供：JustWatch / The Movie Database (TMDB)<br>
 <a href="{site}/title/">▶ 配信先がわかる作品一覧</a> ／ <a href="{site}/">dokomiruトップ</a>
 </footer>
 </div></body></html>""".format(
         title=esc(title), desc=esc(desc), url=esc(url), ogtype=("movie" if is_movie else "tv_show"),
-        ogimg=esc(poster_og), ld=ld_json, css=CSS, site=SITE, poster=poster_el,
+        ogimg=esc(poster_og), ld=ld_json, faq_ld=faq_ld_json, css=CSS, site=SITE, poster=poster_el,
         metabits="".join(meta_bits), tags=tags, summary=esc(summ), avail=avail_html,
+        aff=aff_html, compare=compare_html, abema=abema_html, cast_html=cast_html, faq_html=faq_html,
         media=media, id=d["id"], overview_html=overview_html, rel=rel_html)
 
 
@@ -331,8 +499,20 @@ def main():
     print("[1/4] 人気作品IDを収集 (映画%dページ / ドラマ%dページ)..." % (movie_pages, tv_pages))
     movie_ids = discover("movie", movie_pages)
     tv_ids = discover("tv", tv_pages)
+    # 今週トレンドを混ぜる（人気順discoverに未掲載の急上昇作品を拾う）
+    movie_ids = list(dict.fromkeys(movie_ids + trending("movie")))
+    tv_ids = list(dict.fromkeys(tv_ids + trending("tv")))
     targets = [("movie", i) for i in movie_ids] + [("tv", i) for i in tv_ids]
-    print("    対象: 映画%d / ドラマ%d = 計%d作品" % (len(movie_ids), len(tv_ids), len(targets)))
+    # 過去に生成済みのページも対象に含める（テンプレ更新を全ページへ波及・sitemap維持）
+    seen = set(targets)
+    for media in ("movie", "tv"):
+        base = os.path.join(ROOT, "title", media)
+        if os.path.isdir(base):
+            for name in sorted(os.listdir(base)):
+                if name.isdigit() and (media, int(name)) not in seen:
+                    seen.add((media, int(name)))
+                    targets.append((media, int(name)))
+    print("    対象: 映画%d / ドラマ%d ＋既存分 = 計%d作品" % (len(movie_ids), len(tv_ids), len(targets)))
 
     print("[2/4] 詳細＋配信先を取得...")
     items = []
