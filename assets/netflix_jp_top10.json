@@ -2,7 +2,7 @@
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
   "week": "2026-08-02",
-  "generated_at": "2026-08-05",
+  "generated_at": "2026-08-08",
   "films": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
       "type": "movie",
       "id": 1487861,
       "title": "Elize: Sombras de uma Mulher",
-      "poster": "/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg",
+      "poster": "/612ZyfilK8CVEEFphgPb3GOw0NF.jpg",
       "year": "2026",
       "netflix_title": "Elize: Shadows of a Woman"
     },
