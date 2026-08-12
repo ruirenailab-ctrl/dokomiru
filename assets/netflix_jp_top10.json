@@ -1,8 +1,8 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-08-02",
-  "generated_at": "2026-08-08",
+  "week": "2026-08-09",
+  "generated_at": "2026-08-12",
   "films": [
     {
       "rank": 1,
@@ -16,50 +16,32 @@
     {
       "rank": 2,
       "type": "movie",
-      "id": 1567203,
-      "title": "夜勤事件",
-      "poster": "/okfGa1oSi2rerEr7TkAih9hCZ7q.jpg",
+      "id": 1284041,
+      "title": "ザ・ラストハウス",
+      "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "year": "2026",
-      "netflix_title": "The Convenience Store"
+      "netflix_title": "The Last House"
     },
     {
       "rank": 3,
       "type": "movie",
-      "id": 1487861,
-      "title": "Elize: Sombras de uma Mulher",
-      "poster": "/612ZyfilK8CVEEFphgPb3GOw0NF.jpg",
-      "year": "2026",
-      "netflix_title": "Elize: Shadows of a Woman"
+      "id": 1306434,
+      "title": "劇場版 ドクターX FINAL",
+      "poster": "/uD5jDVVpRs8d9pq1IGzOAxL9H98.jpg",
+      "year": "2024",
+      "netflix_title": "Doctor-X the Movie"
     },
     {
       "rank": 4,
       "type": "movie",
-      "id": 1630409,
-      "title": "2バッドガイズ",
-      "poster": "/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
-      "year": "2026",
-      "netflix_title": "The Debt Collector"
+      "id": 1446033,
+      "title": "夏の砂の上",
+      "poster": "/jEtqcOCYONUhMbYmfZZ3c8CEuhg.jpg",
+      "year": "2025",
+      "netflix_title": "On Summer Sand"
     },
     {
       "rank": 5,
-      "type": "movie",
-      "id": 949838,
-      "title": "72時間",
-      "poster": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-      "year": "2026",
-      "netflix_title": "72 HOURS"
-    },
-    {
-      "rank": 6,
-      "type": "movie",
-      "id": 1241320,
-      "title": "キングダム 大将軍の帰還",
-      "poster": "/cB8knOr8WNqy2BrzF9uC5MDphD0.jpg",
-      "year": "2024",
-      "netflix_title": "Kingdom: Return of The Great General"
-    },
-    {
-      "rank": 7,
       "type": "movie",
       "id": 1147058,
       "title": "ಮ್ಯಾಕ್ಸ್",
@@ -68,16 +50,7 @@
       "netflix_title": "Max"
     },
     {
-      "rank": 8,
-      "type": "movie",
-      "id": 1464533,
-      "title": "爆弾",
-      "poster": "/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
-      "year": "2025",
-      "netflix_title": "SUZUKI=BAKUDAN"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "type": "movie",
       "id": 315635,
       "title": "スパイダーマン：ホームカミング",
@@ -86,18 +59,54 @@
       "netflix_title": "Spider-Man: Homecoming"
     },
     {
+      "rank": 7,
+      "type": "movie",
+      "id": 1495175,
+      "title": "風のマジム",
+      "poster": "/4IXmYN4iUhcHyjflXlBmEZCn4m.jpg",
+      "year": "2025",
+      "netflix_title": "Purehearted"
+    },
+    {
+      "rank": 8,
+      "type": "movie",
+      "id": 1638916,
+      "title": "Silent Night",
+      "poster": "/cfKx3iREbKDDtLrbdaxlMOu2vU0.jpg",
+      "year": "2026",
+      "netflix_title": "Silent Night"
+    },
+    {
+      "rank": 9,
+      "type": "movie",
+      "id": 426284,
+      "title": "無限の住人",
+      "poster": "/dtQDbjjn2VJ6bRnQmst8JtTKHx0.jpg",
+      "year": "2017",
+      "netflix_title": "Blade of the Immortal"
+    },
+    {
       "rank": 10,
       "type": "movie",
-      "id": 519182,
-      "title": "怪盗グルーのミニオン超変身",
-      "poster": "/nV02dGq0sOxp3DMvUByDEI5pLOd.jpg",
-      "year": "2024",
-      "netflix_title": "Despicable Me 4"
+      "id": 1567203,
+      "title": "夜勤事件",
+      "poster": "/okfGa1oSi2rerEr7TkAih9hCZ7q.jpg",
+      "year": "2026",
+      "netflix_title": "The Convenience Store"
     }
   ],
   "tv": [
     {
       "rank": 1,
+      "type": "tv",
+      "id": 305379,
+      "title": "ラヴ上等",
+      "poster": "/fMMh1QUDbgHePRXiEBBAjHKtz5C.jpg",
+      "year": "2025",
+      "netflix_title": "Badly in Love"
+    },
+    {
+      "rank": 2,
       "type": "tv",
       "id": 322570,
       "title": "Tシャツが乾くまで",
@@ -106,7 +115,7 @@
       "netflix_title": "Until the T-shirt Dries"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "type": "tv",
       "id": 218038,
       "title": "VIVANT",
@@ -115,7 +124,7 @@
       "netflix_title": "Vivant"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "type": "tv",
       "id": 323579,
       "title": "大空港～GATE24～",
@@ -124,43 +133,7 @@
       "netflix_title": "GATE24:The Border"
     },
     {
-      "rank": 4,
-      "type": "tv",
-      "id": 325022,
-      "title": "GTO",
-      "poster": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
-      "year": "2026",
-      "netflix_title": "GTO (2026)"
-    },
-    {
       "rank": 5,
-      "type": "tv",
-      "id": 236565,
-      "title": "無職の英雄 別にスキルなんか要らなかったんだが",
-      "poster": "/kYxTx3iPYjLMsOirDNo5bnz13OZ.jpg",
-      "year": "2025",
-      "netflix_title": "Hero Without a Class: Who Even Needs Skills?!"
-    },
-    {
-      "rank": 6,
-      "type": "tv",
-      "id": 253960,
-      "title": "ガス人間",
-      "poster": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
-      "year": "2026",
-      "netflix_title": "Human Vapor"
-    },
-    {
-      "rank": 7,
-      "type": "tv",
-      "id": 296206,
-      "title": "김부장",
-      "poster": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "year": "2026",
-      "netflix_title": "Agent Kim Reactivated"
-    },
-    {
-      "rank": 8,
       "type": "tv",
       "id": 94664,
       "title": "無職転生 ～異世界行ったら本気だす～",
@@ -169,7 +142,7 @@
       "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "type": "tv",
       "id": 296286,
       "title": "スーパーの裏でヤニ吸うふたり",
@@ -178,13 +151,40 @@
       "netflix_title": "Smoking Behind the Supermarket With You"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "type": "tv",
+      "id": 253960,
+      "title": "ガス人間",
+      "poster": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
+      "year": "2026",
+      "netflix_title": "Human Vapor"
+    },
+    {
+      "rank": 8,
+      "type": "tv",
+      "id": 325022,
+      "title": "GTO",
+      "poster": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+      "year": "2026",
+      "netflix_title": "GTO (2026)"
+    },
+    {
+      "rank": 9,
       "type": "tv",
       "id": 298610,
       "title": "오싹한 연애",
       "poster": "/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
       "year": "2026",
       "netflix_title": "Spooky in Love"
+    },
+    {
+      "rank": 10,
+      "type": "tv",
+      "id": 326063,
+      "title": "告白ー25年目の秘密ー",
+      "poster": "/lHaOdbxwY7uMdnX5vcgjaoUB0vf.jpg",
+      "year": "2026",
+      "netflix_title": "25 Years of You"
     }
   ]
 }
