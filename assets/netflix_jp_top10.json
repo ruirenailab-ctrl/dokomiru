@@ -2,7 +2,7 @@
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
   "week": "2026-08-09",
-  "generated_at": "2026-08-12",
+  "generated_at": "2026-08-15",
   "films": [
     {
       "rank": 1,
@@ -43,10 +43,10 @@
     {
       "rank": 5,
       "type": "movie",
-      "id": 1147058,
-      "title": "ಮ್ಯಾಕ್ಸ್",
-      "poster": "/4YeUKzChWqTB3FtuRJkxczCkQoi.jpg",
-      "year": "2024",
+      "id": 740035,
+      "title": "Max",
+      "poster": "/eKBD42lm553JuR90Eqofn6BSq6v.jpg",
+      "year": "2020",
       "netflix_title": "Max"
     },
     {
@@ -128,7 +128,7 @@
       "type": "tv",
       "id": 323579,
       "title": "大空港～GATE24～",
-      "poster": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
+      "poster": "/isI77N3zC3SG4U9VKHJuBwt3URJ.jpg",
       "year": "2026",
       "netflix_title": "GATE24:The Border"
     },
