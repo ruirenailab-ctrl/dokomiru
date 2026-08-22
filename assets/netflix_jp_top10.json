@@ -1,20 +1,11 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-08-09",
-  "generated_at": "2026-08-15",
+  "week": "2026-08-16",
+  "generated_at": "2026-08-22",
   "films": [
     {
       "rank": 1,
-      "type": "movie",
-      "id": 1404404,
-      "title": "クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
-      "poster": "/wSdMsAjw8Ip6AyC9wAzpBalgrEb.jpg",
-      "year": "2025",
-      "netflix_title": "Crayon Shinchan the Movie: Super Hot! The Spicy Kasukabe Dancers"
-    },
-    {
-      "rank": 2,
       "type": "movie",
       "id": 1284041,
       "title": "ザ・ラストハウス",
@@ -23,7 +14,25 @@
       "netflix_title": "The Last House"
     },
     {
+      "rank": 2,
+      "type": "movie",
+      "id": 1404404,
+      "title": "クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
+      "poster": "/wSdMsAjw8Ip6AyC9wAzpBalgrEb.jpg",
+      "year": "2025",
+      "netflix_title": "Crayon Shinchan the Movie: Super Hot! The Spicy Kasukabe Dancers"
+    },
+    {
       "rank": 3,
+      "type": "movie",
+      "id": 889482,
+      "title": "Extinction",
+      "poster": "/ybgh9XscH2SHUlOuDlFPKjlNSPo.jpg",
+      "year": "2025",
+      "netflix_title": "Extinction"
+    },
+    {
+      "rank": 4,
       "type": "movie",
       "id": 1306434,
       "title": "劇場版 ドクターX FINAL",
@@ -32,25 +41,25 @@
       "netflix_title": "Doctor-X the Movie"
     },
     {
-      "rank": 4,
-      "type": "movie",
-      "id": 1446033,
-      "title": "夏の砂の上",
-      "poster": "/jEtqcOCYONUhMbYmfZZ3c8CEuhg.jpg",
-      "year": "2025",
-      "netflix_title": "On Summer Sand"
-    },
-    {
       "rank": 5,
       "type": "movie",
-      "id": 740035,
-      "title": "Max",
-      "poster": "/eKBD42lm553JuR90Eqofn6BSq6v.jpg",
-      "year": "2020",
-      "netflix_title": "Max"
+      "id": 519182,
+      "title": "怪盗グルーのミニオン超変身",
+      "poster": "/nV02dGq0sOxp3DMvUByDEI5pLOd.jpg",
+      "year": "2024",
+      "netflix_title": "Despicable Me 4"
     },
     {
       "rank": 6,
+      "type": "movie",
+      "id": 586048,
+      "title": "82年生まれ、キム・ジヨン",
+      "poster": "/x9bl5TmZBTkUlumLa5IoQYbsNss.jpg",
+      "year": "2019",
+      "netflix_title": "Kim Ji-Young: Born 1982"
+    },
+    {
+      "rank": 7,
       "type": "movie",
       "id": 315635,
       "title": "スパイダーマン：ホームカミング",
@@ -59,40 +68,31 @@
       "netflix_title": "Spider-Man: Homecoming"
     },
     {
-      "rank": 7,
-      "type": "movie",
-      "id": 1495175,
-      "title": "風のマジム",
-      "poster": "/4IXmYN4iUhcHyjflXlBmEZCn4m.jpg",
-      "year": "2025",
-      "netflix_title": "Purehearted"
-    },
-    {
       "rank": 8,
       "type": "movie",
-      "id": 1638916,
-      "title": "Silent Night",
-      "poster": "/cfKx3iREbKDDtLrbdaxlMOu2vU0.jpg",
+      "id": 1679730,
+      "title": "THE RIBBON HERO リボンヒーロー",
+      "poster": "/79APJkTug1OzTrTtTmSmy2TgSuU.jpg",
       "year": "2026",
-      "netflix_title": "Silent Night"
+      "netflix_title": "THE RIBBON HERO"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 426284,
-      "title": "無限の住人",
-      "poster": "/dtQDbjjn2VJ6bRnQmst8JtTKHx0.jpg",
-      "year": "2017",
-      "netflix_title": "Blade of the Immortal"
+      "id": 1464533,
+      "title": "爆弾",
+      "poster": "/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
+      "year": "2025",
+      "netflix_title": "SUZUKI=BAKUDAN"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 1567203,
-      "title": "夜勤事件",
-      "poster": "/okfGa1oSi2rerEr7TkAih9hCZ7q.jpg",
-      "year": "2026",
-      "netflix_title": "The Convenience Store"
+      "id": 1153325,
+      "title": "あの花が咲く丘で、君とまた出会えたら。",
+      "poster": "/2VYQWwEWAetTZW6Zrkc1A4Q2wXC.jpg",
+      "year": "2023",
+      "netflix_title": "Till We Meet Again on the Lily Hill"
     }
   ],
   "tv": [
@@ -117,6 +117,15 @@
     {
       "rank": 3,
       "type": "tv",
+      "id": 291496,
+      "title": "恋は飴模様",
+      "poster": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+      "year": "2026",
+      "netflix_title": "Our Sticky Love"
+    },
+    {
+      "rank": 4,
+      "type": "tv",
       "id": 218038,
       "title": "VIVANT",
       "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
@@ -124,31 +133,22 @@
       "netflix_title": "Vivant"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "type": "tv",
       "id": 323579,
       "title": "大空港～GATE24～",
-      "poster": "/isI77N3zC3SG4U9VKHJuBwt3URJ.jpg",
+      "poster": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
       "year": "2026",
       "netflix_title": "GATE24:The Border"
     },
     {
-      "rank": 5,
-      "type": "tv",
-      "id": 94664,
-      "title": "無職転生 ～異世界行ったら本気だす～",
-      "poster": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
-      "year": "2021",
-      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
-    },
-    {
       "rank": 6,
       "type": "tv",
-      "id": 296286,
-      "title": "スーパーの裏でヤニ吸うふたり",
-      "poster": "/aRTMLZWEtBUy4fG01aqVicRD2wx.jpg",
+      "id": 303460,
+      "title": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+      "poster": "/lHGyS1Ks0QdTtqw3aMjsdTbCC6T.jpg",
       "year": "2026",
-      "netflix_title": "Smoking Behind the Supermarket With You"
+      "netflix_title": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
     },
     {
       "rank": 7,
@@ -162,29 +162,29 @@
     {
       "rank": 8,
       "type": "tv",
-      "id": 325022,
-      "title": "GTO",
-      "poster": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+      "id": 296286,
+      "title": "スーパーの裏でヤニ吸うふたり",
+      "poster": "/aRTMLZWEtBUy4fG01aqVicRD2wx.jpg",
       "year": "2026",
-      "netflix_title": "GTO (2026)"
+      "netflix_title": "Smoking Behind the Supermarket With You"
     },
     {
       "rank": 9,
       "type": "tv",
-      "id": 298610,
-      "title": "오싹한 연애",
-      "poster": "/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
-      "year": "2026",
-      "netflix_title": "Spooky in Love"
+      "id": 65561,
+      "title": "翳りゆく夏",
+      "poster": "/gJdejKw30eB2UrnDFG0puYC7MK.jpg",
+      "year": "2015",
+      "netflix_title": "A Fading Summer"
     },
     {
       "rank": 10,
       "type": "tv",
-      "id": 326063,
-      "title": "告白ー25年目の秘密ー",
-      "poster": "/lHaOdbxwY7uMdnX5vcgjaoUB0vf.jpg",
-      "year": "2026",
-      "netflix_title": "25 Years of You"
+      "id": 94664,
+      "title": "無職転生 ～異世界行ったら本気だす～",
+      "poster": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "year": "2021",
+      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
     }
   ]
 }
