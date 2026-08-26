@@ -1,11 +1,29 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-08-16",
-  "generated_at": "2026-08-22",
+  "week": "2026-08-23",
+  "generated_at": "2026-08-26",
   "films": [
     {
       "rank": 1,
+      "type": "movie",
+      "id": 1521352,
+      "title": "災 劇場版",
+      "poster": "/pKzKYSNhjDvf2C0AsYhco8nCVtw.jpg",
+      "year": "2026",
+      "netflix_title": "Sai: Disaster"
+    },
+    {
+      "rank": 2,
+      "type": "movie",
+      "id": 1399699,
+      "title": "花まんま",
+      "poster": "/laOooa8zpSX9ZTPpbt1byhVuBlg.jpg",
+      "year": "2025",
+      "netflix_title": "Petals and Memories"
+    },
+    {
+      "rank": 3,
       "type": "movie",
       "id": 1284041,
       "title": "ザ・ラストハウス",
@@ -14,7 +32,16 @@
       "netflix_title": "The Last House"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "type": "movie",
+      "id": 1504914,
+      "title": "それいけ！アンパンマン チャポンのヒーロー！",
+      "poster": "/kJq8Pf3UihTrAYDIr6z5xnqcwxC.jpg",
+      "year": "2025",
+      "netflix_title": "Anpanman: Chapon's Hero!"
+    },
+    {
+      "rank": 5,
       "type": "movie",
       "id": 1404404,
       "title": "クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
@@ -23,25 +50,7 @@
       "netflix_title": "Crayon Shinchan the Movie: Super Hot! The Spicy Kasukabe Dancers"
     },
     {
-      "rank": 3,
-      "type": "movie",
-      "id": 889482,
-      "title": "Extinction",
-      "poster": "/ybgh9XscH2SHUlOuDlFPKjlNSPo.jpg",
-      "year": "2025",
-      "netflix_title": "Extinction"
-    },
-    {
-      "rank": 4,
-      "type": "movie",
-      "id": 1306434,
-      "title": "劇場版 ドクターX FINAL",
-      "poster": "/uD5jDVVpRs8d9pq1IGzOAxL9H98.jpg",
-      "year": "2024",
-      "netflix_title": "Doctor-X the Movie"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "type": "movie",
       "id": 519182,
       "title": "怪盗グルーのミニオン超変身",
@@ -50,34 +59,16 @@
       "netflix_title": "Despicable Me 4"
     },
     {
-      "rank": 6,
-      "type": "movie",
-      "id": 586048,
-      "title": "82年生まれ、キム・ジヨン",
-      "poster": "/x9bl5TmZBTkUlumLa5IoQYbsNss.jpg",
-      "year": "2019",
-      "netflix_title": "Kim Ji-Young: Born 1982"
-    },
-    {
       "rank": 7,
       "type": "movie",
-      "id": 315635,
-      "title": "スパイダーマン：ホームカミング",
-      "poster": "/x4uMWPwYUljcc6LWJSZNq19HryO.jpg",
-      "year": "2017",
-      "netflix_title": "Spider-Man: Homecoming"
+      "id": 1153325,
+      "title": "あの花が咲く丘で、君とまた出会えたら。",
+      "poster": "/2VYQWwEWAetTZW6Zrkc1A4Q2wXC.jpg",
+      "year": "2023",
+      "netflix_title": "Till We Meet Again on the Lily Hill"
     },
     {
       "rank": 8,
-      "type": "movie",
-      "id": 1679730,
-      "title": "THE RIBBON HERO リボンヒーロー",
-      "poster": "/79APJkTug1OzTrTtTmSmy2TgSuU.jpg",
-      "year": "2026",
-      "netflix_title": "THE RIBBON HERO"
-    },
-    {
-      "rank": 9,
       "type": "movie",
       "id": 1464533,
       "title": "爆弾",
@@ -86,13 +77,22 @@
       "netflix_title": "SUZUKI=BAKUDAN"
     },
     {
+      "rank": 9,
+      "type": "movie",
+      "id": 1262396,
+      "title": "Breaking In",
+      "poster": "/SVi3qVsE3oYhaNs13eXvRpx0Rm.jpg",
+      "year": "2023",
+      "netflix_title": "Breaking In"
+    },
+    {
       "rank": 10,
       "type": "movie",
-      "id": 1153325,
-      "title": "あの花が咲く丘で、君とまた出会えたら。",
-      "poster": "/2VYQWwEWAetTZW6Zrkc1A4Q2wXC.jpg",
-      "year": "2023",
-      "netflix_title": "Till We Meet Again on the Lily Hill"
+      "id": 1621552,
+      "title": "La captura",
+      "poster": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+      "year": "2026",
+      "netflix_title": "Facing El Chapo"
     }
   ],
   "tv": [
@@ -117,11 +117,11 @@
     {
       "rank": 3,
       "type": "tv",
-      "id": 291496,
-      "title": "恋は飴模様",
-      "poster": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+      "id": 312523,
+      "title": "SとX﻿",
+      "poster": "/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
       "year": "2026",
-      "netflix_title": "Our Sticky Love"
+      "netflix_title": "S&X"
     },
     {
       "rank": 4,
@@ -144,23 +144,14 @@
     {
       "rank": 6,
       "type": "tv",
-      "id": 303460,
-      "title": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-      "poster": "/lHGyS1Ks0QdTtqw3aMjsdTbCC6T.jpg",
+      "id": 291496,
+      "title": "恋は飴模様",
+      "poster": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
       "year": "2026",
-      "netflix_title": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
+      "netflix_title": "Our Sticky Love"
     },
     {
       "rank": 7,
-      "type": "tv",
-      "id": 253960,
-      "title": "ガス人間",
-      "poster": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
-      "year": "2026",
-      "netflix_title": "Human Vapor"
-    },
-    {
-      "rank": 8,
       "type": "tv",
       "id": 296286,
       "title": "スーパーの裏でヤニ吸うふたり",
@@ -169,20 +160,29 @@
       "netflix_title": "Smoking Behind the Supermarket With You"
     },
     {
+      "rank": 8,
+      "type": "tv",
+      "id": 278715,
+      "title": "災",
+      "poster": "/bP2ZuTtP4sG1S2DWESjnRqUNfQ3.jpg",
+      "year": "2025",
+      "netflix_title": "Sai"
+    },
+    {
       "rank": 9,
       "type": "tv",
-      "id": 65561,
-      "title": "翳りゆく夏",
-      "poster": "/gJdejKw30eB2UrnDFG0puYC7MK.jpg",
-      "year": "2015",
-      "netflix_title": "A Fading Summer"
+      "id": 298610,
+      "title": "오싹한 연애",
+      "poster": "/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
+      "year": "2026",
+      "netflix_title": "Spooky in Love"
     },
     {
       "rank": 10,
       "type": "tv",
       "id": 94664,
       "title": "無職転生 ～異世界行ったら本気だす～",
-      "poster": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "poster": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "year": "2021",
       "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
     }
