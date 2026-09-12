@@ -1,11 +1,56 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-08-23",
-  "generated_at": "2026-09-05",
+  "week": "2026-09-06",
+  "generated_at": "2026-09-12",
   "films": [
     {
       "rank": 1,
+      "type": "movie",
+      "id": 1276108,
+      "title": "ラストマイル",
+      "poster": "/sZemGsip0CQuwE5kYjdf82NV5TE.jpg",
+      "year": "2024",
+      "netflix_title": "Last Mile"
+    },
+    {
+      "rank": 2,
+      "type": "movie",
+      "id": 860508,
+      "title": "ウィスパーマン",
+      "poster": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "year": "2026",
+      "netflix_title": "The Whisper Man"
+    },
+    {
+      "rank": 3,
+      "type": "movie",
+      "id": 19543,
+      "title": "アナコンダ4",
+      "poster": "/xzMpkswqQZApvF9tu4XQboOxFTb.jpg",
+      "year": "2009",
+      "netflix_title": "Anacondas: Trail of Blood"
+    },
+    {
+      "rank": 5,
+      "type": "movie",
+      "id": 1502700,
+      "title": "ストロベリームーン 余命半年の恋",
+      "poster": "/dAyW2NHdT6OufZRHCbU8zRPD9Fd.jpg",
+      "year": "2025",
+      "netflix_title": "Strawberry Moon"
+    },
+    {
+      "rank": 6,
+      "type": "movie",
+      "id": 505916,
+      "title": "来る",
+      "poster": "/nvs2nJzozM9hFaBzzB2mGkqkd6e.jpg",
+      "year": "2018",
+      "netflix_title": "It Comes"
+    },
+    {
+      "rank": 7,
       "type": "movie",
       "id": 1521352,
       "title": "災 劇場版",
@@ -14,85 +59,22 @@
       "netflix_title": "Sai: Disaster"
     },
     {
-      "rank": 2,
-      "type": "movie",
-      "id": 1399699,
-      "title": "花まんま",
-      "poster": "/laOooa8zpSX9ZTPpbt1byhVuBlg.jpg",
-      "year": "2025",
-      "netflix_title": "Petals and Memories"
-    },
-    {
-      "rank": 3,
-      "type": "movie",
-      "id": 1284041,
-      "title": "ザ・ラストハウス",
-      "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "year": "2026",
-      "netflix_title": "The Last House"
-    },
-    {
-      "rank": 4,
-      "type": "movie",
-      "id": 1504914,
-      "title": "それいけ！アンパンマン チャポンのヒーロー！",
-      "poster": "/kJq8Pf3UihTrAYDIr6z5xnqcwxC.jpg",
-      "year": "2025",
-      "netflix_title": "Anpanman: Chapon's Hero!"
-    },
-    {
-      "rank": 5,
-      "type": "movie",
-      "id": 1404404,
-      "title": "クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
-      "poster": "/wSdMsAjw8Ip6AyC9wAzpBalgrEb.jpg",
-      "year": "2025",
-      "netflix_title": "Crayon Shinchan the Movie: Super Hot! The Spicy Kasukabe Dancers"
-    },
-    {
-      "rank": 6,
-      "type": "movie",
-      "id": 519182,
-      "title": "怪盗グルーのミニオン超変身",
-      "poster": "/nV02dGq0sOxp3DMvUByDEI5pLOd.jpg",
-      "year": "2024",
-      "netflix_title": "Despicable Me 4"
-    },
-    {
-      "rank": 7,
-      "type": "movie",
-      "id": 1153325,
-      "title": "あの花が咲く丘で、君とまた出会えたら。",
-      "poster": "/2VYQWwEWAetTZW6Zrkc1A4Q2wXC.jpg",
-      "year": "2023",
-      "netflix_title": "Till We Meet Again on the Lily Hill"
-    },
-    {
       "rank": 8,
       "type": "movie",
-      "id": 1464533,
-      "title": "爆弾",
-      "poster": "/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
-      "year": "2025",
-      "netflix_title": "SUZUKI=BAKUDAN"
-    },
-    {
-      "rank": 9,
-      "type": "movie",
-      "id": 1262396,
-      "title": "Breaking In",
-      "poster": "/SVi3qVsE3oYhaNs13eXvRpx0Rm.jpg",
-      "year": "2023",
-      "netflix_title": "Breaking In"
+      "id": 1196822,
+      "title": "第六感",
+      "poster": "/yjAgAdJihRYcvmVW0vZN7DF4hN8.jpg",
+      "year": "2003",
+      "netflix_title": "The Sixth Sense"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 1621552,
-      "title": "La captura",
-      "poster": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
-      "year": "2026",
-      "netflix_title": "Facing El Chapo"
+      "id": 750900,
+      "title": "2012",
+      "poster": "/opHXC3d4faazbwmGKCViDBr7QF0.jpg",
+      "year": "2018",
+      "netflix_title": "2012"
     }
   ],
   "tv": [
@@ -117,14 +99,14 @@
     {
       "rank": 3,
       "type": "tv",
-      "id": 312523,
-      "title": "SとX﻿",
-      "poster": "/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
+      "id": 290193,
+      "title": "なりすましの鼠",
+      "poster": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
       "year": "2026",
-      "netflix_title": "S&X"
+      "netflix_title": "Mousetrap"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "type": "tv",
       "id": 218038,
       "title": "VIVANT",
@@ -133,31 +115,22 @@
       "netflix_title": "Vivant"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "type": "tv",
+      "id": 296286,
+      "title": "スーパーの裏でヤニ吸うふたり",
+      "poster": "/v8BEP2T5OvZvbLREIxSYWaPW3yR.jpg",
+      "year": "2026",
+      "netflix_title": "Smoking Behind the Supermarket With You"
+    },
+    {
+      "rank": 7,
       "type": "tv",
       "id": 323579,
       "title": "大空港～GATE24～",
       "poster": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
       "year": "2026",
       "netflix_title": "GATE24:The Border"
-    },
-    {
-      "rank": 6,
-      "type": "tv",
-      "id": 291496,
-      "title": "恋は飴模様",
-      "poster": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
-      "year": "2026",
-      "netflix_title": "Our Sticky Love"
-    },
-    {
-      "rank": 7,
-      "type": "tv",
-      "id": 296286,
-      "title": "スーパーの裏でヤニ吸うふたり",
-      "poster": "/aRTMLZWEtBUy4fG01aqVicRD2wx.jpg",
-      "year": "2026",
-      "netflix_title": "Smoking Behind the Supermarket With You"
     },
     {
       "rank": 8,
@@ -169,22 +142,13 @@
       "netflix_title": "Sai"
     },
     {
-      "rank": 9,
-      "type": "tv",
-      "id": 298610,
-      "title": "오싹한 연애",
-      "poster": "/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
-      "year": "2026",
-      "netflix_title": "Spooky in Love"
-    },
-    {
       "rank": 10,
       "type": "tv",
-      "id": 94664,
-      "title": "無職転生 ～異世界行ったら本気だす～",
-      "poster": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-      "year": "2021",
-      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
+      "id": 312523,
+      "title": "SとX﻿",
+      "poster": "/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
+      "year": "2026",
+      "netflix_title": "S&X"
     }
   ]
 }
