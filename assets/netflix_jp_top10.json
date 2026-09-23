@@ -1,38 +1,11 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-09-13",
-  "generated_at": "2026-09-19",
+  "week": "2026-09-20",
+  "generated_at": "2026-09-23",
   "films": [
     {
       "rank": 1,
-      "type": "movie",
-      "id": 1502700,
-      "title": "ストロベリームーン 余命半年の恋",
-      "poster": "/dAyW2NHdT6OufZRHCbU8zRPD9Fd.jpg",
-      "year": "2025",
-      "netflix_title": "Strawberry Moon"
-    },
-    {
-      "rank": 2,
-      "type": "movie",
-      "id": 517373,
-      "title": "検察側の罪人",
-      "poster": "/8VeGFaozgbXi1XXsAnUawRUfDgQ.jpg",
-      "year": "2018",
-      "netflix_title": "Killing for the Prosecution"
-    },
-    {
-      "rank": 3,
-      "type": "movie",
-      "id": 1454699,
-      "title": "FUJIKO",
-      "poster": "/1geX2K3nYweYFJvSQyGnNPy6FEj.jpg",
-      "year": "2026",
-      "netflix_title": "Fujiko"
-    },
-    {
-      "rank": 4,
       "type": "movie",
       "id": 1397201,
       "title": "ゴールデンカムイ 網走監獄襲撃編",
@@ -41,25 +14,7 @@
       "netflix_title": "Golden Kamuy -The Abashiri Prison Raid-"
     },
     {
-      "rank": 5,
-      "type": "movie",
-      "id": 1029475,
-      "title": "1秒先の彼",
-      "poster": "/wSzoNNXFTXJ9Jqv59b8YNdqZNh6.jpg",
-      "year": "2023",
-      "netflix_title": "One Second Ahead, One Second Behind"
-    },
-    {
-      "rank": 6,
-      "type": "movie",
-      "id": 1196822,
-      "title": "第六感",
-      "poster": "/yjAgAdJihRYcvmVW0vZN7DF4hN8.jpg",
-      "year": "2003",
-      "netflix_title": "The Sixth Sense"
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "type": "movie",
       "id": 184315,
       "title": "ヘラクレス",
@@ -68,42 +23,78 @@
       "netflix_title": "Hercules"
     },
     {
+      "rank": 4,
+      "type": "movie",
+      "id": 1502700,
+      "title": "ストロベリームーン 余命半年の恋",
+      "poster": "/dAyW2NHdT6OufZRHCbU8zRPD9Fd.jpg",
+      "year": "2025",
+      "netflix_title": "Strawberry Moon"
+    },
+    {
+      "rank": 5,
+      "type": "movie",
+      "id": 1184918,
+      "title": "野生の島のロズ",
+      "poster": "/oUKsIXIKF52Yd98czewct9cwXdR.jpg",
+      "year": "2024",
+      "netflix_title": "The Wild Robot"
+    },
+    {
+      "rank": 6,
+      "type": "movie",
+      "id": 1454699,
+      "title": "FUJIKO",
+      "poster": "/1geX2K3nYweYFJvSQyGnNPy6FEj.jpg",
+      "year": "2026",
+      "netflix_title": "Fujiko"
+    },
+    {
+      "rank": 7,
+      "type": "movie",
+      "id": 517373,
+      "title": "検察側の罪人",
+      "poster": "/8VeGFaozgbXi1XXsAnUawRUfDgQ.jpg",
+      "year": "2018",
+      "netflix_title": "Killing for the Prosecution"
+    },
+    {
       "rank": 8,
       "type": "movie",
-      "id": 14863,
-      "title": "アナコンダ3",
-      "poster": "/shURi7rMXClzzhJeBvx5EZshUMP.jpg",
-      "year": "2008",
-      "netflix_title": "Anaconda 3: Offspring"
+      "id": 1598785,
+      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+      "poster": "/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
+      "year": "2026",
+      "netflix_title": "Milky☆Subway: The Galactic Limited Express – the Movie"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 1276108,
-      "title": "ラストマイル",
-      "poster": "/sZemGsip0CQuwE5kYjdf82NV5TE.jpg",
-      "year": "2024",
-      "netflix_title": "Last Mile"
+      "id": 823,
+      "title": "人狼 JIN-ROH",
+      "poster": "/nC1PUOAWUirtCdnBJ0W34arU18d.jpg",
+      "year": "1999",
+      "netflix_title": "Jin-Roh: The Wolf Brigade"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 860508,
-      "title": "ウィスパーマン",
-      "poster": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-      "year": "2026",
-      "netflix_title": "The Whisper Man"
+      "id": 193402,
+      "title": "踊る大捜査線 THE FINAL 新たなる希望",
+      "poster": "/eknDKoJ42BbwBsBxHaXcD9mp7Zr.jpg",
+      "year": "2012",
+      "netflix_title": "Bayside Shakedown 4: The Final"
     }
   ],
   "tv": [
     {
       "rank": 1,
       "type": "tv",
-      "id": 305379,
-      "title": "ラヴ上等",
-      "poster": "/fMMh1QUDbgHePRXiEBBAjHKtz5C.jpg",
-      "year": "2025",
-      "netflix_title": "Badly in Love"
+      "id": 298008,
+      "title": "ダウンタイム",
+      "poster": "/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
+      "year": "2026",
+      "netflix_title": "Plastic Beauty"
     },
     {
       "rank": 2,
@@ -117,23 +108,14 @@
     {
       "rank": 3,
       "type": "tv",
-      "id": 218038,
-      "title": "VIVANT",
-      "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
-      "year": "2023",
-      "netflix_title": "Vivant"
+      "id": 12433,
+      "title": "Ein Fall für zwei",
+      "poster": "/7cztFGBj6xmJLS39UlhRDRWoEAq.jpg",
+      "year": "1981",
+      "netflix_title": "A Case"
     },
     {
       "rank": 4,
-      "type": "tv",
-      "id": 296286,
-      "title": "スーパーの裏でヤニ吸うふたり",
-      "poster": "/v8BEP2T5OvZvbLREIxSYWaPW3yR.jpg",
-      "year": "2026",
-      "netflix_title": "Smoking Behind the Supermarket With You"
-    },
-    {
-      "rank": 5,
       "type": "tv",
       "id": 305379,
       "title": "ラヴ上等",
@@ -142,16 +124,16 @@
       "netflix_title": "Badly in Love"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "type": "tv",
-      "id": 323579,
-      "title": "大空港～GATE24～",
-      "poster": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
-      "year": "2026",
-      "netflix_title": "GATE24:The Border"
+      "id": 218038,
+      "title": "VIVANT",
+      "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
+      "year": "2023",
+      "netflix_title": "Vivant"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "type": "tv",
       "id": 326063,
       "title": "告白ー25年目の秘密ー",
@@ -160,31 +142,40 @@
       "netflix_title": "25 Years of You"
     },
     {
+      "rank": 7,
+      "type": "tv",
+      "id": 296286,
+      "title": "スーパーの裏でヤニ吸うふたり",
+      "poster": "/v8BEP2T5OvZvbLREIxSYWaPW3yR.jpg",
+      "year": "2026",
+      "netflix_title": "Smoking Behind the Supermarket With You"
+    },
+    {
       "rank": 8,
       "type": "tv",
-      "id": 79054,
-      "title": "監査役 野崎修平",
-      "poster": "/FkYebxloitUfKJyvHOJGq8Sq1Z.jpg",
-      "year": "2018",
-      "netflix_title": "Nozaki Shuhei Auditor of Bank"
+      "id": 323579,
+      "title": "大空港～GATE24～",
+      "poster": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
+      "year": "2026",
+      "netflix_title": "GATE24:The Border"
     },
     {
       "rank": 9,
+      "type": "tv",
+      "id": 124843,
+      "title": "頭取 野崎修平",
+      "poster": "/mF7sLl2z6WP44ia78uBkPij2LQO.jpg",
+      "year": "2020",
+      "netflix_title": "Nozaki Shuhei President of Bank"
+    },
+    {
+      "rank": 10,
       "type": "tv",
       "id": 286345,
       "title": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
       "poster": "/42PzktVKixXyXlZcKWyESpeuXzL.jpg",
       "year": "2026",
       "netflix_title": "Though I Am an Inept Villainess"
-    },
-    {
-      "rank": 10,
-      "type": "tv",
-      "id": 94664,
-      "title": "無職転生 ～異世界行ったら本気だす～",
-      "poster": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-      "year": "2021",
-      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
     }
   ]
 }
