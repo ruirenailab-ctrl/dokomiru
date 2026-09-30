@@ -1,11 +1,38 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-09-20",
-  "generated_at": "2026-09-26",
+  "week": "2026-09-27",
+  "generated_at": "2026-09-30",
   "films": [
     {
       "rank": 1,
+      "type": "movie",
+      "id": 1777750,
+      "title": "名探偵コナン 30号殺人事件",
+      "poster": "/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+      "year": "2026",
+      "netflix_title": "Detective Conan the Counterfeit Case of Ultra 30"
+    },
+    {
+      "rank": 2,
+      "type": "movie",
+      "id": 1410957,
+      "title": "隣のステラ",
+      "poster": "/juTvIzo2PepOjWJZFAvbSmCGuj7.jpg",
+      "year": "2025",
+      "netflix_title": "Stella Next to Me"
+    },
+    {
+      "rank": 3,
+      "type": "movie",
+      "id": 1399750,
+      "title": "Under the Open Sky",
+      "poster": "/1ZKuQJaWOOvejI9LUI7vKwIsD4d.jpg",
+      "year": "2025",
+      "netflix_title": "Under the Open Sky"
+    },
+    {
+      "rank": 4,
       "type": "movie",
       "id": 1397201,
       "title": "ゴールデンカムイ 網走監獄襲撃編",
@@ -14,76 +41,49 @@
       "netflix_title": "Golden Kamuy -The Abashiri Prison Raid-"
     },
     {
-      "rank": 3,
-      "type": "movie",
-      "id": 184315,
-      "title": "ヘラクレス",
-      "poster": "/sKNIwY6UENCJ36FvYvnBW3Vdzt7.jpg",
-      "year": "2014",
-      "netflix_title": "Hercules"
-    },
-    {
-      "rank": 4,
-      "type": "movie",
-      "id": 1502700,
-      "title": "ストロベリームーン 余命半年の恋",
-      "poster": "/dAyW2NHdT6OufZRHCbU8zRPD9Fd.jpg",
-      "year": "2025",
-      "netflix_title": "Strawberry Moon"
-    },
-    {
       "rank": 5,
       "type": "movie",
-      "id": 1184918,
-      "title": "野生の島のロズ",
-      "poster": "/oUKsIXIKF52Yd98czewct9cwXdR.jpg",
+      "id": 1064213,
+      "title": "ANORA アノーラ",
+      "poster": "/oPzW7Juxp2545owUEVC6ppRqQBj.jpg",
       "year": "2024",
-      "netflix_title": "The Wild Robot"
+      "netflix_title": "Anora"
     },
     {
       "rank": 6,
       "type": "movie",
-      "id": 1454699,
-      "title": "FUJIKO",
-      "poster": "/1geX2K3nYweYFJvSQyGnNPy6FEj.jpg",
-      "year": "2026",
-      "netflix_title": "Fujiko"
+      "id": 1285375,
+      "title": "室井慎次 生き続ける者",
+      "poster": "/yxHZ1rAm14sDaxUSv9CHDf6JQ6A.jpg",
+      "year": "2024",
+      "netflix_title": "Muroi Shinji: Stay Alive"
     },
     {
       "rank": 7,
       "type": "movie",
-      "id": 517373,
-      "title": "検察側の罪人",
-      "poster": "/8VeGFaozgbXi1XXsAnUawRUfDgQ.jpg",
-      "year": "2018",
-      "netflix_title": "Killing for the Prosecution"
+      "id": 1285372,
+      "title": "室井慎次 敗れざる者",
+      "poster": "/d06Eb5ORa7zyygZYUL7zvZuveXU.jpg",
+      "year": "2024",
+      "netflix_title": "Muroi Shinji: Not Defeated"
     },
     {
       "rank": 8,
-      "type": "movie",
-      "id": 1598785,
-      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-      "poster": "/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
-      "year": "2026",
-      "netflix_title": "Milky☆Subway: The Galactic Limited Express – the Movie"
-    },
-    {
-      "rank": 9,
-      "type": "movie",
-      "id": 823,
-      "title": "人狼 JIN-ROH",
-      "poster": "/nC1PUOAWUirtCdnBJ0W34arU18d.jpg",
-      "year": "1999",
-      "netflix_title": "Jin-Roh: The Wolf Brigade"
-    },
-    {
-      "rank": 10,
       "type": "movie",
       "id": 193402,
       "title": "踊る大捜査線 THE FINAL 新たなる希望",
       "poster": "/eknDKoJ42BbwBsBxHaXcD9mp7Zr.jpg",
       "year": "2012",
       "netflix_title": "Bayside Shakedown 4: The Final"
+    },
+    {
+      "rank": 10,
+      "type": "movie",
+      "id": 55382,
+      "title": "踊る大捜査線 THE MOVIE",
+      "poster": "/4pveFVl8gyGrnfD4Tr8icw2fAjY.jpg",
+      "year": "1998",
+      "netflix_title": "Bayside Shakedown"
     }
   ],
   "tv": [
@@ -99,15 +99,6 @@
     {
       "rank": 2,
       "type": "tv",
-      "id": 322570,
-      "title": "Tシャツが乾くまで",
-      "poster": "/u4FV6Y2JtTaGpVp94V7Vp0JR3R3.jpg",
-      "year": "2026",
-      "netflix_title": "Until the T-shirt Dries"
-    },
-    {
-      "rank": 3,
-      "type": "tv",
       "id": 12433,
       "title": "Ein Fall für zwei",
       "poster": "/7cztFGBj6xmJLS39UlhRDRWoEAq.jpg",
@@ -115,13 +106,22 @@
       "netflix_title": "A Case"
     },
     {
+      "rank": 3,
+      "type": "tv",
+      "id": 275102,
+      "title": "スキャンダル",
+      "poster": "/wRIl5nHPvvKFuJSAB1Oghh1YOQY.jpg",
+      "year": "2026",
+      "netflix_title": "The Scandal"
+    },
+    {
       "rank": 4,
       "type": "tv",
-      "id": 305379,
-      "title": "ラヴ上等",
-      "poster": "/fMMh1QUDbgHePRXiEBBAjHKtz5C.jpg",
-      "year": "2025",
-      "netflix_title": "Badly in Love"
+      "id": 81953,
+      "title": "イアリー 見えない顔",
+      "poster": "/qkbYtctXLRMBWvtIfVzoBQPEdZN.jpg",
+      "year": "2018",
+      "netflix_title": "Eerie: Invisible Face"
     },
     {
       "rank": 5,
@@ -135,11 +135,11 @@
     {
       "rank": 6,
       "type": "tv",
-      "id": 326063,
-      "title": "告白ー25年目の秘密ー",
-      "poster": "/lHaOdbxwY7uMdnX5vcgjaoUB0vf.jpg",
-      "year": "2026",
-      "netflix_title": "25 Years of You"
+      "id": 250994,
+      "title": "天久鷹央の推理カルテ",
+      "poster": "/jfUwdU2MSi4oZoc8hErn5cOI1Gs.jpg",
+      "year": "2025",
+      "netflix_title": "Ameku M.D. Doctor Detective"
     },
     {
       "rank": 7,
@@ -153,29 +153,29 @@
     {
       "rank": 8,
       "type": "tv",
-      "id": 323579,
-      "title": "大空港～GATE24～",
-      "poster": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
+      "id": 326063,
+      "title": "告白ー25年目の秘密ー",
+      "poster": "/lHaOdbxwY7uMdnX5vcgjaoUB0vf.jpg",
       "year": "2026",
-      "netflix_title": "GATE24:The Border"
+      "netflix_title": "25 Years of You"
     },
     {
       "rank": 9,
       "type": "tv",
-      "id": 124843,
-      "title": "頭取 野崎修平",
-      "poster": "/mF7sLl2z6WP44ia78uBkPij2LQO.jpg",
-      "year": "2020",
-      "netflix_title": "Nozaki Shuhei President of Bank"
+      "id": 94664,
+      "title": "無職転生 ～異世界行ったら本気だす～",
+      "poster": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "year": "2021",
+      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
       "rank": 10,
       "type": "tv",
-      "id": 286345,
-      "title": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-      "poster": "/42PzktVKixXyXlZcKWyESpeuXzL.jpg",
+      "id": 322570,
+      "title": "Tシャツが乾くまで",
+      "poster": "/u4FV6Y2JtTaGpVp94V7Vp0JR3R3.jpg",
       "year": "2026",
-      "netflix_title": "Though I Am an Inept Villainess"
+      "netflix_title": "Until the T-shirt Dries"
     }
   ]
 }
