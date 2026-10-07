@@ -1,8 +1,8 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-09-27",
-  "generated_at": "2026-10-03",
+  "week": "2026-10-04",
+  "generated_at": "2026-10-07",
   "films": [
     {
       "rank": 1,
@@ -16,15 +16,6 @@
     {
       "rank": 2,
       "type": "movie",
-      "id": 1410957,
-      "title": "隣のステラ",
-      "poster": "/juTvIzo2PepOjWJZFAvbSmCGuj7.jpg",
-      "year": "2025",
-      "netflix_title": "Stella Next to Me"
-    },
-    {
-      "rank": 3,
-      "type": "movie",
       "id": 1399750,
       "title": "Under the Open Sky",
       "poster": "/1ZKuQJaWOOvejI9LUI7vKwIsD4d.jpg",
@@ -32,58 +23,76 @@
       "netflix_title": "Under the Open Sky"
     },
     {
+      "rank": 3,
+      "type": "movie",
+      "id": 1312989,
+      "title": "アングリースクワッド 公務員と７人の詐欺師",
+      "poster": "/23sjWvjXFbGbQZQ3bCffqgYolrC.jpg",
+      "year": "2024",
+      "netflix_title": "Angry Squad: Civil Servants & Seven Swindlers"
+    },
+    {
       "rank": 4,
       "type": "movie",
-      "id": 1397201,
-      "title": "ゴールデンカムイ 網走監獄襲撃編",
-      "poster": "/lcBrjK1mnPrrpLk6VtlVMMCfsLS.jpg",
+      "id": 1492640,
+      "title": "ユナボマー",
+      "poster": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
       "year": "2026",
-      "netflix_title": "Golden Kamuy -The Abashiri Prison Raid-"
+      "netflix_title": "UNABOMBER"
     },
     {
       "rank": 5,
       "type": "movie",
-      "id": 1064213,
-      "title": "ANORA アノーラ",
-      "poster": "/oPzW7Juxp2545owUEVC6ppRqQBj.jpg",
-      "year": "2024",
-      "netflix_title": "Anora"
+      "id": 1410957,
+      "title": "隣のステラ",
+      "poster": "/juTvIzo2PepOjWJZFAvbSmCGuj7.jpg",
+      "year": "2025",
+      "netflix_title": "Stella Next to Me"
     },
     {
       "rank": 6,
       "type": "movie",
-      "id": 1285375,
-      "title": "室井慎次 生き続ける者",
-      "poster": "/yxHZ1rAm14sDaxUSv9CHDf6JQ6A.jpg",
-      "year": "2024",
-      "netflix_title": "Muroi Shinji: Stay Alive"
+      "id": 951647,
+      "title": "Iron Man",
+      "poster": "/A6aK12Ysdez1SRnGakxodg0SuQ5.jpg",
+      "year": "2020",
+      "netflix_title": "Iron Man"
     },
     {
       "rank": 7,
       "type": "movie",
-      "id": 1285372,
-      "title": "室井慎次 敗れざる者",
-      "poster": "/d06Eb5ORa7zyygZYUL7zvZuveXU.jpg",
-      "year": "2024",
-      "netflix_title": "Muroi Shinji: Not Defeated"
+      "id": 1404326,
+      "title": "366⽇",
+      "poster": "/l3Izzs3xo8wG1UyJnqY8hYylMUe.jpg",
+      "year": "2025",
+      "netflix_title": "366 Days"
     },
     {
       "rank": 8,
       "type": "movie",
-      "id": 193402,
-      "title": "踊る大捜査線 THE FINAL 新たなる希望",
-      "poster": "/eknDKoJ42BbwBsBxHaXcD9mp7Zr.jpg",
-      "year": "2012",
-      "netflix_title": "Bayside Shakedown 4: The Final"
+      "id": 1322562,
+      "title": "劇場版モノノ怪 第三章 蛇神",
+      "poster": "/93zvlPMHQb3xoX40bNL8bck7O00.jpg",
+      "year": "2026",
+      "netflix_title": "Mononoke The Movie: Chapter Ⅲ - The Curse of the Serpent"
+    },
+    {
+      "rank": 9,
+      "type": "movie",
+      "id": 8090,
+      "title": "ブラックサイト",
+      "poster": "/ySUwDRDEn01lKIMPQorpFCMLWqE.jpg",
+      "year": "2008",
+      "netflix_title": "Untraceable"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 55382,
-      "title": "踊る大捜査線 THE MOVIE",
-      "poster": "/4pveFVl8gyGrnfD4Tr8icw2fAjY.jpg",
-      "year": "1998",
-      "netflix_title": "Bayside Shakedown"
+      "id": 274,
+      "title": "羊たちの沈黙",
+      "poster": "/aXDd5Nwwr9M8erJo3C7u0ehoeG5.jpg",
+      "year": "1991",
+      "netflix_title": "The Silence of the Lambs"
     }
   ],
   "tv": [
@@ -99,23 +108,41 @@
     {
       "rank": 2,
       "type": "tv",
-      "id": 12433,
-      "title": "Ein Fall für zwei",
-      "poster": "/7cztFGBj6xmJLS39UlhRDRWoEAq.jpg",
-      "year": "1981",
-      "netflix_title": "A Case"
+      "id": 45790,
+      "title": "ジョジョの奇妙な冒険",
+      "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "year": "2012",
+      "netflix_title": "STEEL BALL RUN JoJo’s Bizarre Adventure"
     },
     {
       "rank": 3,
       "type": "tv",
-      "id": 275102,
-      "title": "スキャンダル",
-      "poster": "/wRIl5nHPvvKFuJSAB1Oghh1YOQY.jpg",
+      "id": 298994,
+      "title": "LV999の村人",
+      "poster": "/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
       "year": "2026",
-      "netflix_title": "The Scandal"
+      "netflix_title": "The Villager of Level 999"
     },
     {
       "rank": 4,
+      "type": "tv",
+      "id": 280042,
+      "title": "野生のラスボスが現れた！",
+      "poster": "/uLkimDmIWb4VdgFUuiMlS8wGi5S.jpg",
+      "year": "2025",
+      "netflix_title": "A Wild Last Boss Appeared!"
+    },
+    {
+      "rank": 5,
+      "type": "tv",
+      "id": 38922,
+      "title": "Boss",
+      "poster": "/foV4LJFlFaxLBqSd6Dih9HVupkj.jpg",
+      "year": "2011",
+      "netflix_title": "Boss"
+    },
+    {
+      "rank": 6,
       "type": "tv",
       "id": 81953,
       "title": "イアリー 見えない顔",
@@ -124,43 +151,16 @@
       "netflix_title": "Eerie: Invisible Face"
     },
     {
-      "rank": 5,
-      "type": "tv",
-      "id": 218038,
-      "title": "VIVANT",
-      "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
-      "year": "2023",
-      "netflix_title": "Vivant"
-    },
-    {
-      "rank": 6,
-      "type": "tv",
-      "id": 250994,
-      "title": "天久鷹央の推理カルテ",
-      "poster": "/jfUwdU2MSi4oZoc8hErn5cOI1Gs.jpg",
-      "year": "2025",
-      "netflix_title": "Ameku M.D. Doctor Detective"
-    },
-    {
       "rank": 7,
       "type": "tv",
-      "id": 296286,
-      "title": "スーパーの裏でヤニ吸うふたり",
-      "poster": "/aRTMLZWEtBUy4fG01aqVicRD2wx.jpg",
-      "year": "2026",
-      "netflix_title": "Smoking Behind the Supermarket With You"
+      "id": 45790,
+      "title": "ジョジョの奇妙な冒険",
+      "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "year": "2012",
+      "netflix_title": "STEEL BALL RUN JoJo’s Bizarre Adventure"
     },
     {
       "rank": 8,
-      "type": "tv",
-      "id": 326063,
-      "title": "告白ー25年目の秘密ー",
-      "poster": "/lHaOdbxwY7uMdnX5vcgjaoUB0vf.jpg",
-      "year": "2026",
-      "netflix_title": "25 Years of You"
-    },
-    {
-      "rank": 9,
       "type": "tv",
       "id": 94664,
       "title": "無職転生 ～異世界行ったら本気だす～",
@@ -169,13 +169,22 @@
       "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
+      "rank": 9,
+      "type": "tv",
+      "id": 218038,
+      "title": "VIVANT",
+      "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
+      "year": "2023",
+      "netflix_title": "Vivant"
+    },
+    {
       "rank": 10,
       "type": "tv",
-      "id": 322570,
-      "title": "Tシャツが乾くまで",
-      "poster": "/u4FV6Y2JtTaGpVp94V7Vp0JR3R3.jpg",
-      "year": "2026",
-      "netflix_title": "Until the T-shirt Dries"
+      "id": 39020,
+      "title": "マルモのおきて",
+      "poster": "/jCTwLzmyOwXuzB9xXues88JcthK.jpg",
+      "year": "2011",
+      "netflix_title": "Marumo's Story"
     }
   ]
 }
