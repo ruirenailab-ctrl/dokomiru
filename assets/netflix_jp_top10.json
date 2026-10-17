@@ -2,7 +2,7 @@
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
   "week": "2026-10-04",
-  "generated_at": "2026-10-10",
+  "generated_at": "2026-10-17",
   "films": [
     {
       "rank": 1,
@@ -52,10 +52,10 @@
     {
       "rank": 6,
       "type": "movie",
-      "id": 951647,
-      "title": "Iron Man",
-      "poster": "/A6aK12Ysdez1SRnGakxodg0SuQ5.jpg",
-      "year": "2020",
+      "id": 1726,
+      "title": "アイアンマン",
+      "poster": "/gZnH9qyt45WblCc9tEKlEXVjSKA.jpg",
+      "year": "2008",
       "netflix_title": "Iron Man"
     },
     {
