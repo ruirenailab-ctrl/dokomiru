@@ -1,29 +1,20 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-10-04",
-  "generated_at": "2026-10-17",
+  "week": "2026-10-18",
+  "generated_at": "2026-10-21",
   "films": [
     {
       "rank": 1,
       "type": "movie",
-      "id": 1777750,
-      "title": "名探偵コナン 30号殺人事件",
-      "poster": "/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
-      "year": "2026",
-      "netflix_title": "Detective Conan the Counterfeit Case of Ultra 30"
+      "id": 1369010,
+      "title": "ブラック・ショーマン",
+      "poster": "/bE0oMAmJg1YUZWQVSn2nRKavMcv.jpg",
+      "year": "2025",
+      "netflix_title": "Black Showman"
     },
     {
       "rank": 2,
-      "type": "movie",
-      "id": 1399750,
-      "title": "Under the Open Sky",
-      "poster": "/1ZKuQJaWOOvejI9LUI7vKwIsD4d.jpg",
-      "year": "2025",
-      "netflix_title": "Under the Open Sky"
-    },
-    {
-      "rank": 3,
       "type": "movie",
       "id": 1312989,
       "title": "アングリースクワッド 公務員と７人の詐欺師",
@@ -32,72 +23,117 @@
       "netflix_title": "Angry Squad: Civil Servants & Seven Swindlers"
     },
     {
+      "rank": 3,
+      "type": "movie",
+      "id": 338970,
+      "title": "トゥームレイダー ファースト・ミッション",
+      "poster": "/kthuuMnc0xaTV6mM01f4NbAVhQE.jpg",
+      "year": "2018",
+      "netflix_title": "Tomb Raider"
+    },
+    {
       "rank": 4,
       "type": "movie",
-      "id": 1492640,
-      "title": "ユナボマー",
-      "poster": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "year": "2026",
-      "netflix_title": "UNABOMBER"
+      "id": 1770051,
+      "title": "Animals",
+      "poster": "/q7tb4tli0pZpzzYPADNIwDHzODn.jpg",
+      "year": "2027",
+      "netflix_title": "Animals"
     },
     {
       "rank": 5,
       "type": "movie",
-      "id": 1410957,
-      "title": "隣のステラ",
-      "poster": "/juTvIzo2PepOjWJZFAvbSmCGuj7.jpg",
-      "year": "2025",
-      "netflix_title": "Stella Next to Me"
+      "id": 1777750,
+      "title": "名探偵コナン 30号殺人事件",
+      "poster": "/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+      "year": "2026",
+      "netflix_title": "Detective Conan the Counterfeit Case of Ultra 30"
     },
     {
       "rank": 6,
       "type": "movie",
-      "id": 1726,
-      "title": "アイアンマン",
-      "poster": "/gZnH9qyt45WblCc9tEKlEXVjSKA.jpg",
-      "year": "2008",
-      "netflix_title": "Iron Man"
+      "id": 338947,
+      "title": "ヘル・レイザー",
+      "poster": "/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+      "year": "2022",
+      "netflix_title": "Hellraiser"
     },
     {
       "rank": 7,
       "type": "movie",
-      "id": 1404326,
-      "title": "366⽇",
-      "poster": "/l3Izzs3xo8wG1UyJnqY8hYylMUe.jpg",
-      "year": "2025",
-      "netflix_title": "366 Days"
+      "id": 997086,
+      "title": "劇場版 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+      "poster": "/fC6Bs81pR72e6gCXXP0yDgSAZNe.jpg",
+      "year": "2023",
+      "netflix_title": "My Next Life As a Villainess All Routes Lead to Doom! The movie"
     },
     {
       "rank": 8,
       "type": "movie",
-      "id": 1322562,
-      "title": "劇場版モノノ怪 第三章 蛇神",
-      "poster": "/93zvlPMHQb3xoX40bNL8bck7O00.jpg",
-      "year": "2026",
-      "netflix_title": "Mononoke The Movie: Chapter Ⅲ - The Curse of the Serpent"
+      "id": 1547253,
+      "title": "A Long Goodbye",
+      "poster": "/fPVjeSsZsY9vpBJZo6jY9iIBefl.jpg",
+      "year": "2025",
+      "netflix_title": "A Long Goodbye"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 8090,
-      "title": "ブラックサイト",
-      "poster": "/ySUwDRDEn01lKIMPQorpFCMLWqE.jpg",
-      "year": "2008",
-      "netflix_title": "Untraceable"
+      "id": 1399750,
+      "title": "Under the Open Sky",
+      "poster": "/1ZKuQJaWOOvejI9LUI7vKwIsD4d.jpg",
+      "year": "2025",
+      "netflix_title": "Under the Open Sky"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 274,
-      "title": "羊たちの沈黙",
-      "poster": "/aXDd5Nwwr9M8erJo3C7u0ehoeG5.jpg",
-      "year": "1991",
-      "netflix_title": "The Silence of the Lambs"
+      "id": 354380,
+      "title": "TOO YOUNG TO DIE! 若くして死ぬ",
+      "poster": "/vg1ZoeBD6YytlIMRDYZGwWKosM1.jpg",
+      "year": "2016",
+      "netflix_title": "Too Young To Die!"
     }
   ],
   "tv": [
     {
       "rank": 1,
+      "type": "tv",
+      "id": 332261,
+      "title": "ポリティカルパン",
+      "poster": "/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+      "year": "2026",
+      "netflix_title": "PoliticaLupin"
+    },
+    {
+      "rank": 2,
+      "type": "tv",
+      "id": 220542,
+      "title": "薬屋のひとりごと",
+      "poster": "/5ZZlbaJleRsAO08qWK6ZTOe9g3Z.jpg",
+      "year": "2023",
+      "netflix_title": "The Apothecary Diaries"
+    },
+    {
+      "rank": 3,
+      "type": "tv",
+      "id": 224740,
+      "title": "あいの里",
+      "poster": "/8mo4ZHKkvTcBPSmjDDtaGVgEAOn.jpg",
+      "year": "2023",
+      "netflix_title": "Love Village"
+    },
+    {
+      "rank": 4,
+      "type": "tv",
+      "id": 329490,
+      "title": "LOST10",
+      "poster": "/xNYh0RLebPsb9noMdctjKTeqe0v.jpg",
+      "year": "2026",
+      "netflix_title": "LOST10"
+    },
+    {
+      "rank": 5,
       "type": "tv",
       "id": 298008,
       "title": "ダウンタイム",
@@ -106,85 +142,49 @@
       "netflix_title": "Plastic Beauty"
     },
     {
-      "rank": 2,
-      "type": "tv",
-      "id": 45790,
-      "title": "ジョジョの奇妙な冒険",
-      "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "year": "2012",
-      "netflix_title": "STEEL BALL RUN JoJo’s Bizarre Adventure"
-    },
-    {
-      "rank": 3,
-      "type": "tv",
-      "id": 298994,
-      "title": "LV999の村人",
-      "poster": "/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
-      "year": "2026",
-      "netflix_title": "The Villager of Level 999"
-    },
-    {
-      "rank": 4,
-      "type": "tv",
-      "id": 280042,
-      "title": "野生のラスボスが現れた！",
-      "poster": "/uLkimDmIWb4VdgFUuiMlS8wGi5S.jpg",
-      "year": "2025",
-      "netflix_title": "A Wild Last Boss Appeared!"
-    },
-    {
-      "rank": 5,
-      "type": "tv",
-      "id": 38922,
-      "title": "Boss",
-      "poster": "/foV4LJFlFaxLBqSd6Dih9HVupkj.jpg",
-      "year": "2011",
-      "netflix_title": "Boss"
-    },
-    {
       "rank": 6,
       "type": "tv",
-      "id": 81953,
-      "title": "イアリー 見えない顔",
-      "poster": "/qkbYtctXLRMBWvtIfVzoBQPEdZN.jpg",
-      "year": "2018",
-      "netflix_title": "Eerie: Invisible Face"
+      "id": 320909,
+      "title": "ホタルの嫁入り",
+      "poster": "/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+      "year": "2026",
+      "netflix_title": "Firefly Wedding"
     },
     {
       "rank": 7,
       "type": "tv",
-      "id": 45790,
-      "title": "ジョジョの奇妙な冒険",
-      "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "year": "2012",
-      "netflix_title": "STEEL BALL RUN JoJo’s Bizarre Adventure"
+      "id": 289423,
+      "title": "ハートにチャージして",
+      "poster": "/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
+      "year": "2026",
+      "netflix_title": "Take Charge of My Heart"
     },
     {
       "rank": 8,
       "type": "tv",
-      "id": 94664,
-      "title": "無職転生 ～異世界行ったら本気だす～",
-      "poster": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-      "year": "2021",
-      "netflix_title": "Mushoku Tensei: Jobless Reincarnation"
+      "id": 311955,
+      "title": "俺たちの箱根駅伝",
+      "poster": "/1cA5ysVK1C4W5KRtxxNkW2zTBqF.jpg",
+      "year": "2026",
+      "netflix_title": "Hakone Ekiden: Our Story"
     },
     {
       "rank": 9,
       "type": "tv",
-      "id": 218038,
-      "title": "VIVANT",
-      "poster": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
-      "year": "2023",
-      "netflix_title": "Vivant"
+      "id": 293610,
+      "title": "ドクターX ～白衣のマフィア～",
+      "poster": "/bsNfiwvE8v50BtaTGK4RlsFReLl.jpg",
+      "year": "2026",
+      "netflix_title": "Doctor X: Mafia in White"
     },
     {
       "rank": 10,
       "type": "tv",
-      "id": 39020,
-      "title": "マルモのおきて",
-      "poster": "/jCTwLzmyOwXuzB9xXues88JcthK.jpg",
-      "year": "2011",
-      "netflix_title": "Marumo's Story"
+      "id": 313346,
+      "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
+      "poster": "/rx1VD2kSpnRMs0K7sLujqyxpFPF.jpg",
+      "year": "2026",
+      "netflix_title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
     }
   ]
 }
