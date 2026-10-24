@@ -2,7 +2,7 @@
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
   "week": "2026-10-18",
-  "generated_at": "2026-10-21",
+  "generated_at": "2026-10-24",
   "films": [
     {
       "rank": 1,
@@ -97,15 +97,6 @@
   ],
   "tv": [
     {
-      "rank": 1,
-      "type": "tv",
-      "id": 332261,
-      "title": "ポリティカルパン",
-      "poster": "/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
-      "year": "2026",
-      "netflix_title": "PoliticaLupin"
-    },
-    {
       "rank": 2,
       "type": "tv",
       "id": 220542,
@@ -182,7 +173,7 @@
       "type": "tv",
       "id": 313346,
       "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
-      "poster": "/rx1VD2kSpnRMs0K7sLujqyxpFPF.jpg",
+      "poster": "/lEUUMZ8zylAPP797UMugdYjuxRP.jpg",
       "year": "2026",
       "netflix_title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
     }
