@@ -2,7 +2,7 @@
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
   "week": "2026-10-18",
-  "generated_at": "2026-10-24",
+  "generated_at": "2026-10-28",
   "films": [
     {
       "rank": 1,
@@ -34,10 +34,10 @@
     {
       "rank": 4,
       "type": "movie",
-      "id": 1770051,
-      "title": "Animals",
-      "poster": "/q7tb4tli0pZpzzYPADNIwDHzODn.jpg",
-      "year": "2027",
+      "id": 1236045,
+      "title": "アニマルズ",
+      "poster": "/KqcfuaMk5XP72JOaFGLqzcbaob.jpg",
+      "year": "2026",
       "netflix_title": "Animals"
     },
     {
@@ -54,7 +54,7 @@
       "type": "movie",
       "id": 338947,
       "title": "ヘル・レイザー",
-      "poster": "/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+      "poster": "/dUJMnglUY9v9SKJZduFSGzxzQGH.jpg",
       "year": "2022",
       "netflix_title": "Hellraiser"
     },
@@ -96,6 +96,15 @@
     }
   ],
   "tv": [
+    {
+      "rank": 1,
+      "type": "tv",
+      "id": 332261,
+      "title": "ポリティカルパン",
+      "poster": "/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+      "year": "2026",
+      "netflix_title": "PoliticaLupin"
+    },
     {
       "rank": 2,
       "type": "tv",
