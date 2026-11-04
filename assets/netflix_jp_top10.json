@@ -1,8 +1,8 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-10-18",
-  "generated_at": "2026-10-31",
+  "week": "2026-11-01",
+  "generated_at": "2026-11-04",
   "films": [
     {
       "rank": 1,
@@ -16,115 +16,106 @@
     {
       "rank": 2,
       "type": "movie",
-      "id": 1312989,
-      "title": "アングリースクワッド 公務員と７人の詐欺師",
-      "poster": "/23sjWvjXFbGbQZQ3bCffqgYolrC.jpg",
+      "id": 1280498,
+      "title": "もしも徳川家康が総理大臣になったら",
+      "poster": "/1ECgLX6i4rOoyx5lvjtDE5EI6wo.jpg",
       "year": "2024",
-      "netflix_title": "Angry Squad: Civil Servants & Seven Swindlers"
+      "netflix_title": "What if Shogun Ieyasu Tokugawa Was To Become the Prime Minister"
     },
     {
       "rank": 3,
       "type": "movie",
-      "id": 338970,
-      "title": "トゥームレイダー ファースト・ミッション",
-      "poster": "/kthuuMnc0xaTV6mM01f4NbAVhQE.jpg",
-      "year": "2018",
-      "netflix_title": "Tomb Raider"
+      "id": 1019661,
+      "title": "シャイロックの子供たち",
+      "poster": "/dYvM1nh9Rauhf4bvM9jn34T5XtF.jpg",
+      "year": "2023",
+      "netflix_title": "Shylock's Children"
     },
     {
       "rank": 4,
       "type": "movie",
-      "id": 1236045,
-      "title": "アニマルズ",
-      "poster": "/KqcfuaMk5XP72JOaFGLqzcbaob.jpg",
+      "id": 1780005,
+      "title": "Contra el huracán",
+      "poster": "/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
       "year": "2026",
-      "netflix_title": "Animals"
+      "netflix_title": "Surviving Hurricane Otis"
     },
     {
       "rank": 5,
       "type": "movie",
-      "id": 1777750,
-      "title": "名探偵コナン 30号殺人事件",
-      "poster": "/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+      "id": 1265948,
+      "title": "납치 48시간",
+      "poster": "/ifuoiLIERaYnB8E70VtAYvPL1t3.jpg",
       "year": "2026",
-      "netflix_title": "Detective Conan the Counterfeit Case of Ultra 30"
+      "netflix_title": "The Guardian"
     },
     {
       "rank": 6,
       "type": "movie",
-      "id": 338947,
-      "title": "ヘル・レイザー",
-      "poster": "/dUJMnglUY9v9SKJZduFSGzxzQGH.jpg",
-      "year": "2022",
-      "netflix_title": "Hellraiser"
+      "id": 18405,
+      "title": "ラスト・ハウス・オン・ザ・レフト -鮮血の美学-",
+      "poster": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+      "year": "2009",
+      "netflix_title": "The Last House on the Left"
     },
     {
       "rank": 7,
       "type": "movie",
-      "id": 997086,
-      "title": "劇場版 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
-      "poster": "/fC6Bs81pR72e6gCXXP0yDgSAZNe.jpg",
+      "id": 940721,
+      "title": "ゴジラ-1.0",
+      "poster": "/buvBq2zLP7CcJth8tjrI4znvfEO.jpg",
       "year": "2023",
-      "netflix_title": "My Next Life As a Villainess All Routes Lead to Doom! The movie"
+      "netflix_title": "Godzilla Minus One"
     },
     {
       "rank": 8,
       "type": "movie",
-      "id": 1547253,
-      "title": "A Long Goodbye",
-      "poster": "/fPVjeSsZsY9vpBJZo6jY9iIBefl.jpg",
-      "year": "2025",
-      "netflix_title": "A Long Goodbye"
+      "id": 481084,
+      "title": "アダムス・ファミリー",
+      "poster": "/vrQHL8himPbcfUhPKCVQKwMNriP.jpg",
+      "year": "2019",
+      "netflix_title": "The Addams Family"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 1399750,
-      "title": "Under the Open Sky",
-      "poster": "/1ZKuQJaWOOvejI9LUI7vKwIsD4d.jpg",
-      "year": "2025",
-      "netflix_title": "Under the Open Sky"
+      "id": 1034660,
+      "title": "ブラックナイトパレード",
+      "poster": "/nYACRwumGaOmdyROlIIFE7Y4C2s.jpg",
+      "year": "2022",
+      "netflix_title": "Black Night Parade"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 354380,
-      "title": "TOO YOUNG TO DIE! 若くして死ぬ",
-      "poster": "/vg1ZoeBD6YytlIMRDYZGwWKosM1.jpg",
-      "year": "2016",
-      "netflix_title": "Too Young To Die!"
+      "id": 783111,
+      "title": "행복의 나라",
+      "poster": "/uC8PB7FMk8sOKRrf9MVKdLWQdqx.jpg",
+      "year": "2024",
+      "netflix_title": "Land of Happiness"
     }
   ],
   "tv": [
     {
       "rank": 1,
       "type": "tv",
-      "id": 332261,
-      "title": "ポリティカルパン",
-      "poster": "/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+      "id": 332713,
+      "title": "南田南弁護士は天才肌",
+      "poster": "/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
       "year": "2026",
-      "netflix_title": "PoliticaLupin"
+      "netflix_title": "Extraordinary Attorney Minami"
     },
     {
       "rank": 2,
       "type": "tv",
-      "id": 220542,
-      "title": "薬屋のひとりごと",
-      "poster": "/5ZZlbaJleRsAO08qWK6ZTOe9g3Z.jpg",
-      "year": "2023",
-      "netflix_title": "The Apothecary Diaries"
+      "id": 300527,
+      "title": "俺のこと、なんか言ってた？",
+      "poster": "/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
+      "year": "2026",
+      "netflix_title": "Did Someone Happen to Mention Me?"
     },
     {
       "rank": 3,
-      "type": "tv",
-      "id": 224740,
-      "title": "あいの里",
-      "poster": "/8mo4ZHKkvTcBPSmjDDtaGVgEAOn.jpg",
-      "year": "2023",
-      "netflix_title": "Love Village"
-    },
-    {
-      "rank": 4,
       "type": "tv",
       "id": 329490,
       "title": "LOST10",
@@ -133,16 +124,34 @@
       "netflix_title": "LOST10"
     },
     {
+      "rank": 4,
+      "type": "tv",
+      "id": 220542,
+      "title": "薬屋のひとりごと",
+      "poster": "/5ZZlbaJleRsAO08qWK6ZTOe9g3Z.jpg",
+      "year": "2023",
+      "netflix_title": "The Apothecary Diaries"
+    },
+    {
       "rank": 5,
       "type": "tv",
-      "id": 298008,
-      "title": "ダウンタイム",
-      "poster": "/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
-      "year": "2026",
-      "netflix_title": "Plastic Beauty"
+      "id": 224740,
+      "title": "あいの里",
+      "poster": "/8mo4ZHKkvTcBPSmjDDtaGVgEAOn.jpg",
+      "year": "2023",
+      "netflix_title": "Love Village"
     },
     {
       "rank": 6,
+      "type": "tv",
+      "id": 332261,
+      "title": "ポリティカルパン",
+      "poster": "/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+      "year": "2026",
+      "netflix_title": "PoliticaLupin"
+    },
+    {
+      "rank": 7,
       "type": "tv",
       "id": 320909,
       "title": "ホタルの嫁入り",
@@ -151,40 +160,31 @@
       "netflix_title": "Firefly Wedding"
     },
     {
-      "rank": 7,
-      "type": "tv",
-      "id": 289423,
-      "title": "ハートにチャージして",
-      "poster": "/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
-      "year": "2026",
-      "netflix_title": "Take Charge of My Heart"
-    },
-    {
       "rank": 8,
       "type": "tv",
-      "id": 311955,
-      "title": "俺たちの箱根駅伝",
-      "poster": "/1cA5ysVK1C4W5KRtxxNkW2zTBqF.jpg",
-      "year": "2026",
-      "netflix_title": "Hakone Ekiden: Our Story"
+      "id": 81102,
+      "title": "深夜食堂",
+      "poster": "/pePgRBbwyQrUS3ZZuI6qnI0oME8.jpg",
+      "year": "2017",
+      "netflix_title": "Midnight Diner"
     },
     {
       "rank": 9,
       "type": "tv",
-      "id": 293610,
-      "title": "ドクターX ～白衣のマフィア～",
-      "poster": "/bsNfiwvE8v50BtaTGK4RlsFReLl.jpg",
+      "id": 298008,
+      "title": "ダウンタイム",
+      "poster": "/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
       "year": "2026",
-      "netflix_title": "Doctor X: Mafia in White"
+      "netflix_title": "Plastic Beauty"
     },
     {
       "rank": 10,
       "type": "tv",
-      "id": 313346,
-      "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
-      "poster": "/lEUUMZ8zylAPP797UMugdYjuxRP.jpg",
-      "year": "2026",
-      "netflix_title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
+      "id": 45790,
+      "title": "ジョジョの奇妙な冒険",
+      "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "year": "2012",
+      "netflix_title": "STEEL BALL RUN JoJo’s Bizarre Adventure"
     }
   ]
 }
