@@ -2,7 +2,7 @@
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
   "week": "2026-11-01",
-  "generated_at": "2026-11-04",
+  "generated_at": "2026-11-07",
   "films": [
     {
       "rank": 1,
@@ -81,7 +81,7 @@
       "type": "movie",
       "id": 1034660,
       "title": "ブラックナイトパレード",
-      "poster": "/nYACRwumGaOmdyROlIIFE7Y4C2s.jpg",
+      "poster": "/eNDhDpOM6L9LDv3RNzuALiyaHPt.jpg",
       "year": "2022",
       "netflix_title": "Black Night Parade"
     },
