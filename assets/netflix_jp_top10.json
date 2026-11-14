@@ -1,65 +1,38 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-11-01",
-  "generated_at": "2026-11-07",
+  "week": "2026-11-08",
+  "generated_at": "2026-11-14",
   "films": [
     {
       "rank": 1,
       "type": "movie",
-      "id": 1369010,
-      "title": "ブラック・ショーマン",
-      "poster": "/bE0oMAmJg1YUZWQVSn2nRKavMcv.jpg",
-      "year": "2025",
-      "netflix_title": "Black Showman"
+      "id": 1654940,
+      "title": "余命一年、男をかう",
+      "poster": "/lkEQXQ1YpMCzCrLOBxHLGdCHLVb.jpg",
+      "year": "2026",
+      "netflix_title": "One Year to Live, Buy a Man"
     },
     {
       "rank": 2,
       "type": "movie",
-      "id": 1280498,
-      "title": "もしも徳川家康が総理大臣になったら",
-      "poster": "/1ECgLX6i4rOoyx5lvjtDE5EI6wo.jpg",
-      "year": "2024",
-      "netflix_title": "What if Shogun Ieyasu Tokugawa Was To Become the Prime Minister"
+      "id": 566647,
+      "title": "氷の轍",
+      "poster": "/yBZVcbIV7z5wUf0s5Ua3hPMU7y7.jpg",
+      "year": "2016",
+      "netflix_title": "The Ice Ruts"
     },
     {
       "rank": 3,
       "type": "movie",
-      "id": 1019661,
-      "title": "シャイロックの子供たち",
-      "poster": "/dYvM1nh9Rauhf4bvM9jn34T5XtF.jpg",
+      "id": 931102,
+      "title": "ライド・オン",
+      "poster": "/6uNaURqMPMor9IxHsSA8oT10jWd.jpg",
       "year": "2023",
-      "netflix_title": "Shylock's Children"
+      "netflix_title": "Ride On"
     },
     {
       "rank": 4,
-      "type": "movie",
-      "id": 1780005,
-      "title": "Contra el huracán",
-      "poster": "/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-      "year": "2026",
-      "netflix_title": "Surviving Hurricane Otis"
-    },
-    {
-      "rank": 5,
-      "type": "movie",
-      "id": 1265948,
-      "title": "납치 48시간",
-      "poster": "/ifuoiLIERaYnB8E70VtAYvPL1t3.jpg",
-      "year": "2026",
-      "netflix_title": "The Guardian"
-    },
-    {
-      "rank": 6,
-      "type": "movie",
-      "id": 18405,
-      "title": "ラスト・ハウス・オン・ザ・レフト -鮮血の美学-",
-      "poster": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
-      "year": "2009",
-      "netflix_title": "The Last House on the Left"
-    },
-    {
-      "rank": 7,
       "type": "movie",
       "id": 940721,
       "title": "ゴジラ-1.0",
@@ -68,31 +41,58 @@
       "netflix_title": "Godzilla Minus One"
     },
     {
+      "rank": 5,
+      "type": "movie",
+      "id": 1571955,
+      "title": "Colisión",
+      "poster": "/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
+      "year": "2026",
+      "netflix_title": "Collision Course"
+    },
+    {
+      "rank": 6,
+      "type": "movie",
+      "id": 1369010,
+      "title": "ブラック・ショーマン",
+      "poster": "/bE0oMAmJg1YUZWQVSn2nRKavMcv.jpg",
+      "year": "2025",
+      "netflix_title": "Black Showman"
+    },
+    {
+      "rank": 7,
+      "type": "movie",
+      "id": 726657,
+      "title": "ブレイブ -群青戦記-",
+      "poster": "/dZHbJ2cbPZfumKLoh1NShIevZKk.jpg",
+      "year": "2021",
+      "netflix_title": "Brave: Gunjo Senki"
+    },
+    {
       "rank": 8,
       "type": "movie",
-      "id": 481084,
-      "title": "アダムス・ファミリー",
-      "poster": "/vrQHL8himPbcfUhPKCVQKwMNriP.jpg",
-      "year": "2019",
-      "netflix_title": "The Addams Family"
+      "id": 336004,
+      "title": "タイム・トゥ・ラン",
+      "poster": "/eKdz5i9gbzJthAxUZBBj5SVbzKR.jpg",
+      "year": "2015",
+      "netflix_title": "Heist"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 1034660,
-      "title": "ブラックナイトパレード",
-      "poster": "/eNDhDpOM6L9LDv3RNzuALiyaHPt.jpg",
-      "year": "2022",
-      "netflix_title": "Black Night Parade"
+      "id": 1498935,
+      "title": "The Guardian",
+      "poster": "/1ezjNeyvU6Q6e2C9ZuwKQnWmMmm.jpg",
+      "year": "2025",
+      "netflix_title": "The Guardian"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 783111,
-      "title": "행복의 나라",
-      "poster": "/uC8PB7FMk8sOKRrf9MVKdLWQdqx.jpg",
-      "year": "2024",
-      "netflix_title": "Land of Happiness"
+      "id": 49051,
+      "title": "ホビット 思いがけない冒険",
+      "poster": "/owRdGwcveYfvJUj9ogF2sh7H6AL.jpg",
+      "year": "2012",
+      "netflix_title": "The Hobbit: An Unexpected Journey"
     }
   ],
   "tv": [
@@ -153,38 +153,29 @@
     {
       "rank": 7,
       "type": "tv",
+      "id": 289517,
+      "title": "クルアルバ －おいしいバイト－",
+      "poster": "/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
+      "year": "2026",
+      "netflix_title": "Dead-End Job"
+    },
+    {
+      "rank": 9,
+      "type": "tv",
+      "id": 309202,
+      "title": "パンどろぼう",
+      "poster": "/1vhGbttw7Pf4QYwd4GngBiMsjGu.jpg",
+      "year": "2026",
+      "netflix_title": "Pandorobo"
+    },
+    {
+      "rank": 10,
+      "type": "tv",
       "id": 320909,
       "title": "ホタルの嫁入り",
       "poster": "/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
       "year": "2026",
       "netflix_title": "Firefly Wedding"
-    },
-    {
-      "rank": 8,
-      "type": "tv",
-      "id": 81102,
-      "title": "深夜食堂",
-      "poster": "/pePgRBbwyQrUS3ZZuI6qnI0oME8.jpg",
-      "year": "2017",
-      "netflix_title": "Midnight Diner"
-    },
-    {
-      "rank": 9,
-      "type": "tv",
-      "id": 298008,
-      "title": "ダウンタイム",
-      "poster": "/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
-      "year": "2026",
-      "netflix_title": "Plastic Beauty"
-    },
-    {
-      "rank": 10,
-      "type": "tv",
-      "id": 45790,
-      "title": "ジョジョの奇妙な冒険",
-      "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "year": "2012",
-      "netflix_title": "STEEL BALL RUN JoJo’s Bizarre Adventure"
     }
   ]
 }
