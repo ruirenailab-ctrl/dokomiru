@@ -1,8 +1,8 @@
 {
   "source": "Netflix Top 10 (公式) × TMDB",
   "region": "JP",
-  "week": "2026-11-08",
-  "generated_at": "2026-11-14",
+  "week": "2026-11-15",
+  "generated_at": "2026-11-18",
   "films": [
     {
       "rank": 1,
@@ -16,23 +16,14 @@
     {
       "rank": 2,
       "type": "movie",
-      "id": 566647,
-      "title": "氷の轍",
-      "poster": "/yBZVcbIV7z5wUf0s5Ua3hPMU7y7.jpg",
-      "year": "2016",
-      "netflix_title": "The Ice Ruts"
+      "id": 1359916,
+      "title": "秒速5センチメートル",
+      "poster": "/nhvPn4TsUQk5ZBk9T9RBW7v7z1J.jpg",
+      "year": "2025",
+      "netflix_title": "5 Centimeters Per Second"
     },
     {
       "rank": 3,
-      "type": "movie",
-      "id": 931102,
-      "title": "ライド・オン",
-      "poster": "/6uNaURqMPMor9IxHsSA8oT10jWd.jpg",
-      "year": "2023",
-      "netflix_title": "Ride On"
-    },
-    {
-      "rank": 4,
       "type": "movie",
       "id": 940721,
       "title": "ゴジラ-1.0",
@@ -41,25 +32,16 @@
       "netflix_title": "Godzilla Minus One"
     },
     {
+      "rank": 4,
+      "type": "movie",
+      "id": 447185,
+      "title": "斉木楠雄のΨ難",
+      "poster": "/g8vgcpYYOs1ZmF47KJLnxeSQytc.jpg",
+      "year": "2017",
+      "netflix_title": "Psychic Kusuo"
+    },
+    {
       "rank": 5,
-      "type": "movie",
-      "id": 1571955,
-      "title": "Colisión",
-      "poster": "/sMPIiaOoyTr5o6s602KIVMJX3P2.jpg",
-      "year": "2026",
-      "netflix_title": "Collision Course"
-    },
-    {
-      "rank": 6,
-      "type": "movie",
-      "id": 1369010,
-      "title": "ブラック・ショーマン",
-      "poster": "/bE0oMAmJg1YUZWQVSn2nRKavMcv.jpg",
-      "year": "2025",
-      "netflix_title": "Black Showman"
-    },
-    {
-      "rank": 7,
       "type": "movie",
       "id": 726657,
       "title": "ブレイブ -群青戦記-",
@@ -68,51 +50,69 @@
       "netflix_title": "Brave: Gunjo Senki"
     },
     {
+      "rank": 6,
+      "type": "movie",
+      "id": 1616687,
+      "title": "逆襲",
+      "poster": "/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
+      "year": "2026",
+      "netflix_title": "Never Surrender"
+    },
+    {
+      "rank": 7,
+      "type": "movie",
+      "id": 931102,
+      "title": "ライド・オン",
+      "poster": "/6uNaURqMPMor9IxHsSA8oT10jWd.jpg",
+      "year": "2023",
+      "netflix_title": "Ride On"
+    },
+    {
       "rank": 8,
       "type": "movie",
-      "id": 336004,
-      "title": "タイム・トゥ・ラン",
-      "poster": "/eKdz5i9gbzJthAxUZBBj5SVbzKR.jpg",
-      "year": "2015",
-      "netflix_title": "Heist"
+      "id": 1682752,
+      "title": "Million Dollar Man",
+      "poster": "/CuOZuO37UBt2eMLCM5cicMs3vn.jpg",
+      "year": "2026",
+      "netflix_title": "Million Dollar Man"
     },
     {
       "rank": 9,
       "type": "movie",
-      "id": 1498935,
-      "title": "The Guardian",
-      "poster": "/1ezjNeyvU6Q6e2C9ZuwKQnWmMmm.jpg",
-      "year": "2025",
-      "netflix_title": "The Guardian"
+      "id": 1483525,
+      "title": "もしもの愛",
+      "poster": "/hGUnENS15d3Ve5W9TQY5ZdP2O18.jpg",
+      "year": "2026",
+      "netflix_title": "Possible Love"
     },
     {
       "rank": 10,
       "type": "movie",
-      "id": 49051,
-      "title": "ホビット 思いがけない冒険",
-      "poster": "/owRdGwcveYfvJUj9ogF2sh7H6AL.jpg",
-      "year": "2012",
-      "netflix_title": "The Hobbit: An Unexpected Journey"
+      "id": 1198337,
+      "title": "おまえの罪を自白しろ",
+      "poster": "/me37QZAORvdSyIZH0j3b0HoOeK7.jpg",
+      "year": "2023",
+      "netflix_title": "Confess to Your Crimes"
     }
   ],
   "tv": [
     {
       "rank": 1,
       "type": "tv",
+      "id": 157926,
+      "title": "トークサバイバー！",
+      "poster": "/kM6CTrrlpQNKZJoIsJb9XEoloWX.jpg",
+      "year": "2022",
+      "netflix_title": "Last One Standing"
+    },
+    {
+      "rank": 2,
+      "type": "tv",
       "id": 332713,
       "title": "南田南弁護士は天才肌",
       "poster": "/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
       "year": "2026",
       "netflix_title": "Extraordinary Attorney Minami"
-    },
-    {
-      "rank": 2,
-      "type": "tv",
-      "id": 300527,
-      "title": "俺のこと、なんか言ってた？",
-      "poster": "/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
-      "year": "2026",
-      "netflix_title": "Did Someone Happen to Mention Me?"
     },
     {
       "rank": 3,
@@ -126,20 +126,20 @@
     {
       "rank": 4,
       "type": "tv",
+      "id": 300527,
+      "title": "俺のこと、なんか言ってた？",
+      "poster": "/3TBbZzu33YTEtH5DHgHWSGiDiAO.jpg",
+      "year": "2026",
+      "netflix_title": "Did Someone Happen to Mention Me?"
+    },
+    {
+      "rank": 5,
+      "type": "tv",
       "id": 220542,
       "title": "薬屋のひとりごと",
       "poster": "/5ZZlbaJleRsAO08qWK6ZTOe9g3Z.jpg",
       "year": "2023",
       "netflix_title": "The Apothecary Diaries"
-    },
-    {
-      "rank": 5,
-      "type": "tv",
-      "id": 224740,
-      "title": "あいの里",
-      "poster": "/8mo4ZHKkvTcBPSmjDDtaGVgEAOn.jpg",
-      "year": "2023",
-      "netflix_title": "Love Village"
     },
     {
       "rank": 6,
@@ -153,20 +153,29 @@
     {
       "rank": 7,
       "type": "tv",
-      "id": 289517,
-      "title": "クルアルバ －おいしいバイト－",
-      "poster": "/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
-      "year": "2026",
-      "netflix_title": "Dead-End Job"
+      "id": 218038,
+      "title": "VIVANT",
+      "poster": "/5YtrWYAuw8wQwDKHSlVLmohpFw2.jpg",
+      "year": "2023",
+      "netflix_title": "Vivant"
+    },
+    {
+      "rank": 8,
+      "type": "tv",
+      "id": 280038,
+      "title": "異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～",
+      "poster": "/nrd2DMbn39Usv9Lp5LpHh67yVAN.jpg",
+      "year": "2025",
+      "netflix_title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin"
     },
     {
       "rank": 9,
       "type": "tv",
-      "id": 309202,
-      "title": "パンどろぼう",
-      "poster": "/1vhGbttw7Pf4QYwd4GngBiMsjGu.jpg",
+      "id": 285993,
+      "title": "BLACK TORCH",
+      "poster": "/m0Y86byoQXcxbYPdg4pQ8feEjE1.jpg",
       "year": "2026",
-      "netflix_title": "Pandorobo"
+      "netflix_title": "Black Torch"
     },
     {
       "rank": 10,
